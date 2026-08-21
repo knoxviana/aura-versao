@@ -1,6 +1,6 @@
 {
-  "versao": "0.9.9",
+  "versao": "0.9.10",
   "publicada_em": "2026-08-21",
-  "nota": "A instância volta a atualizar de verdade: a versão a instalar deixou de ser fixa no compose. Mensagem de recuperação de senha e textos de tela reescritos.",
+  "nota": "Publicação do manifesto passa a ser automática: a instalação de uma versão nova deixa de depender de cópia manual.",
   "url": "https://github.com/knoxviana/ecosistema_aura/releases"
 }
