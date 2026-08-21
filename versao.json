@@ -1,6 +1,6 @@
 {
-  "versao": "0.9.8",
+  "versao": "0.9.9",
   "publicada_em": "2026-08-21",
-  "nota": "Agente de atualização da instância. E-mail em dev volta a chegar para a equipe interna, incluindo recuperação de senha.",
+  "nota": "A instância volta a atualizar de verdade: a versão a instalar deixou de ser fixa no compose. Mensagem de recuperação de senha e textos de tela reescritos.",
   "url": "https://github.com/knoxviana/ecosistema_aura/releases"
 }
