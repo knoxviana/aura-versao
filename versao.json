@@ -1,6 +1,6 @@
 {
-  "versao": "0.9.10",
+  "versao": "0.9.11",
   "publicada_em": "2026-08-21",
-  "nota": "Publicação do manifesto passa a ser automática: a instalação de uma versão nova deixa de depender de cópia manual.",
+  "nota": "Manifesto publicado automaticamente pelo release. A partir desta versão, uma atualização chega às instâncias sem nenhum passo manual do fabricante.",
   "url": "https://github.com/knoxviana/ecosistema_aura/releases"
 }
