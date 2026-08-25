@@ -1,6 +1,6 @@
 {
-  "versao": "0.9.11",
-  "publicada_em": "2026-08-21",
-  "nota": "Manifesto publicado automaticamente pelo release. A partir desta versão, uma atualização chega às instâncias sem nenhum passo manual do fabricante.",
+  "versao": "0.9.12",
+  "publicada_em": "2026-08-25",
+  "nota": "Cartões: rótulo mostra o nome do cartão em vez do plano.",
   "url": "https://github.com/knoxviana/ecosistema_aura/releases"
 }
