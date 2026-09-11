@@ -1,6 +1,6 @@
 {
-  "versao": "0.9.14",
+  "versao": "0.9.15",
   "publicada_em": "2026-09-11",
-  "nota": "Auditoria Bancária: a coluna Portal deixa de acusar divergência falsa — ela é a última solicitação (um log), que pode não ter sido aplicada; não conta mais como divergência.",
+  "nota": "Novo: Panorama da Carteira (Análises) — composição das vidas por status, sexo, faixa etária, plano, empresa e geografia, mais o movimento de entradas e saídas.",
   "url": "https://github.com/knoxviana/ecosistema_aura/releases"
 }
