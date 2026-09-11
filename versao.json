@@ -1,6 +1,6 @@
 {
-  "versao": "0.9.13",
+  "versao": "0.9.14",
   "publicada_em": "2026-09-11",
-  "nota": "Nova tela em Administração — Histórico de Acessos: veja quem entrou no sistema, quando e de qual IP/dispositivo.",
+  "nota": "Auditoria Bancária: a coluna Portal deixa de acusar divergência falsa — ela é a última solicitação (um log), que pode não ter sido aplicada; não conta mais como divergência.",
   "url": "https://github.com/knoxviana/ecosistema_aura/releases"
 }
