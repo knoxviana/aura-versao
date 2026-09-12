@@ -1,6 +1,6 @@
 {
-  "versao": "0.9.15",
-  "publicada_em": "2026-09-11",
-  "nota": "Novo: Panorama da Carteira (Análises) — composição das vidas por status, sexo, faixa etária, plano, empresa e geografia, mais o movimento de entradas e saídas.",
+  "versao": "0.9.16",
+  "publicada_em": "2026-09-12",
+  "nota": "Panorama da Carteira: dados corrigidos (titular/dependente real, sexo, empresa e movimento) — passa a ler a base rica de beneficiários; seção de qualidade do cadastro.",
   "url": "https://github.com/knoxviana/ecosistema_aura/releases"
 }
