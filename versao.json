@@ -1,6 +1,6 @@
 {
-  "versao": "0.9.35",
+  "versao": "0.9.36",
   "publicada_em": "2026-09-21",
-  "nota": "Resultado por Plano passa a acusar problema em vez de escondê-lo: valor fora do painel, mês que não foi carregado, mês fechado que a contabilidade revisou depois de lido, e contas com comportamento estranho.",
+  "nota": "Resultado por Plano aponta o que mudou: variação fora do padrão de cada linha, plano que cruzou o zero e concentração do resultado. A célula fica destacada na própria tabela.",
   "url": "https://github.com/knoxviana/ecosistema_aura/releases"
 }
