@@ -1,6 +1,6 @@
 {
-  "versao": "0.9.34",
+  "versao": "0.9.35",
   "publicada_em": "2026-09-21",
-  "nota": "Merge pull request #95 from knoxviana/feat/resultado-por-plano-adr",
+  "nota": "Resultado por Plano passa a acusar problema em vez de escondê-lo: valor fora do painel, mês que não foi carregado, mês fechado que a contabilidade revisou depois de lido, e contas com comportamento estranho.",
   "url": "https://github.com/knoxviana/ecosistema_aura/releases"
 }
