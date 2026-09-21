@@ -1,6 +1,6 @@
 {
-  "versao": "0.9.26",
+  "versao": "0.9.27",
   "publicada_em": "2026-09-21",
-  "nota": "Merge pull request #82 from knoxviana/fix/acesso-definido-na-criacao",
+  "nota": "Merge pull request #85 from knoxviana/feat/sugestao-de-nome-na-criacao",
   "url": "https://github.com/knoxviana/ecosistema_aura/releases"
 }
