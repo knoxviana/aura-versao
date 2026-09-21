@@ -1,6 +1,6 @@
 {
-  "versao": "0.9.29",
+  "versao": "0.9.30",
   "publicada_em": "2026-09-21",
-  "nota": "Merge pull request #87 from knoxviana/feat/tela-perfis-de-acesso",
+  "nota": "Merge pull request #88 from knoxviana/hotfix/authapi-fechado-cedo",
   "url": "https://github.com/knoxviana/ecosistema_aura/releases"
 }
