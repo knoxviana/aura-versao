@@ -1,6 +1,6 @@
 {
-  "versao": "0.9.36",
+  "versao": "0.9.37",
   "publicada_em": "2026-09-21",
-  "nota": "Resultado por Plano aponta o que mudou: variação fora do padrão de cada linha, plano que cruzou o zero e concentração do resultado. A célula fica destacada na própria tabela.",
+  "nota": "Botão \"Atualizar\" na tela de Configurações da Operadora: o admin vê a versão disponível e pede a atualização por ali. Quem aplica continua sendo o agente do servidor.",
   "url": "https://github.com/knoxviana/ecosistema_aura/releases"
 }
