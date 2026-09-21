@@ -1,6 +1,6 @@
 {
-  "versao": "0.9.30",
+  "versao": "0.9.31",
   "publicada_em": "2026-09-21",
-  "nota": "Merge pull request #88 from knoxviana/hotfix/authapi-fechado-cedo",
+  "nota": "Merge pull request #89 from knoxviana/feat/78-niveis-no-lugar-do-perfil",
   "url": "https://github.com/knoxviana/ecosistema_aura/releases"
 }
