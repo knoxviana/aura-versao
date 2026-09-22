@@ -1,6 +1,378 @@
 {
-  "versao": "0.9.42",
+  "versao": "0.9.43",
   "publicada_em": "2026-09-22",
-  "nota": "Resultado por Plano - aba 'Por plano': da pra selecionar os planos direto na tela (checkboxes), com Selecionar todos / Desmarcar todos, e incluir planos que nao estao no painel. Filtro de conferencia mais agil.",
-  "url": "https://github.com/knoxviana/ecosistema_aura/releases"
+  "nota": "Resultado por Plano: tooltips explicando a regra de calculo e os campos (para o financeiro). Configuracoes: historico de versoes na tela (o que mudou em cada versao) e 'Ultima consulta' em horario de Brasilia.",
+  "url": "https://github.com/knoxviana/ecosistema_aura/releases",
+  "historico": [
+    {
+      "versao": "0.9.43",
+      "publicada_em": "2026-09-22",
+      "nota": "Resultado por Plano: tooltips explicando a regra de calculo e os campos (para o financeiro). Configuracoes: historico de versoes na tela (o que mudou em cada versao) e 'Ultima consulta' em horario de Brasilia."
+    },
+    {
+      "versao": "0.9.42",
+      "publicada_em": "2026-09-22",
+      "nota": "Resultado por Plano - aba 'Por plano': da pra selecionar os planos direto na tela (checkboxes), com Selecionar todos / Desmarcar todos, e incluir planos que nao estao no painel. Filtro de conferencia mais agil."
+    },
+    {
+      "versao": "0.9.41",
+      "publicada_em": "2026-09-22",
+      "nota": "E-mail em dev liberado por identidade (usuario ativo do AURA recebe com [TESTE]); beneficiario que nao e usuario segue protegido. Fail-closed."
+    },
+    {
+      "versao": "0.9.40",
+      "publicada_em": "2026-09-22",
+      "nota": "Resultado por Plano: sync nao deadlocka mais em cargas simultaneas (trava de concorrencia); drill 'Fora das regras' abre no ano com seletor de periodo (antes abria em janeiro)."
+    },
+    {
+      "versao": "0.9.39",
+      "publicada_em": "2026-09-22",
+      "nota": "O /health passa a apontar integração do Oracle que falta na instância. Antes, faltando a view do Resultado por Plano ou do DFC, a auditoria respondia \"ok\" e a tela abria vazia sem explicação. O contrato enviado ao DBA agora pede essas duas views. Corrige também a versão do cliente Oracle usada pelos relatórios MV."
+    },
+    {
+      "versao": "0.9.38",
+      "publicada_em": "2026-09-22",
+      "nota": "Resultado por Plano passa a aparecer no menu de quem já tinha o AURA instalado. O módulo subiu na 0.9.37 e ficava invisível: a linha existia no banco, mas a liberação de acesso só era criada em instalação nova. Agora todo módulo novo alcança também a instalação que já rodava."
+    },
+    {
+      "versao": "0.9.37",
+      "publicada_em": "2026-09-21",
+      "nota": "Botão \"Atualizar\" na tela de Configurações da Operadora: o admin vê a versão disponível e pede a atualização por ali. Quem aplica continua sendo o agente do servidor."
+    },
+    {
+      "versao": "0.9.36",
+      "publicada_em": "2026-09-21",
+      "nota": "Resultado por Plano aponta o que mudou: variação fora do padrão de cada linha, plano que cruzou o zero e concentração do resultado. A célula fica destacada na própria tabela."
+    },
+    {
+      "versao": "0.9.35",
+      "publicada_em": "2026-09-21",
+      "nota": "Resultado por Plano passa a acusar problema em vez de escondê-lo: valor fora do painel, mês que não foi carregado, mês fechado que a contabilidade revisou depois de lido, e contas com comportamento estranho."
+    },
+    {
+      "versao": "0.9.34",
+      "publicada_em": "2026-09-21",
+      "nota": "Merge pull request #95 from knoxviana/feat/resultado-por-plano-adr"
+    },
+    {
+      "versao": "0.9.33",
+      "publicada_em": "2026-09-21",
+      "nota": "Merge pull request #92 from knoxviana/feat/deploy-modulo"
+    },
+    {
+      "versao": "0.9.32",
+      "publicada_em": "2026-09-21",
+      "nota": "Merge pull request #90 from knoxviana/feat/78-frontend-niveis"
+    },
+    {
+      "versao": "0.9.31",
+      "publicada_em": "2026-09-21",
+      "nota": "Merge pull request #89 from knoxviana/feat/78-niveis-no-lugar-do-perfil"
+    },
+    {
+      "versao": "0.9.30",
+      "publicada_em": "2026-09-21",
+      "nota": "Merge pull request #88 from knoxviana/hotfix/authapi-fechado-cedo"
+    },
+    {
+      "versao": "0.9.29",
+      "publicada_em": "2026-09-21",
+      "nota": "Merge pull request #87 from knoxviana/feat/tela-perfis-de-acesso"
+    },
+    {
+      "versao": "0.9.28",
+      "publicada_em": "2026-09-21",
+      "nota": "Merge pull request #86 from knoxviana/feat/perfis-de-acesso-dados-api"
+    },
+    {
+      "versao": "0.9.27",
+      "publicada_em": "2026-09-21",
+      "nota": "Merge pull request #85 from knoxviana/feat/sugestao-de-nome-na-criacao"
+    },
+    {
+      "versao": "0.9.26",
+      "publicada_em": "2026-09-21",
+      "nota": "Merge pull request #82 from knoxviana/fix/acesso-definido-na-criacao"
+    },
+    {
+      "versao": "0.9.25",
+      "publicada_em": "2026-09-21",
+      "nota": "Merge pull request #81 from knoxviana/feat/papeis-por-modulo"
+    },
+    {
+      "versao": "0.9.24",
+      "publicada_em": "2026-09-21",
+      "nota": "Merge pull request #80 from knoxviana/fix/popover-saude-financeira-estouro"
+    },
+    {
+      "versao": "0.9.23",
+      "publicada_em": "2026-09-20",
+      "nota": "Merge pull request #75 from knoxviana/fix/logo-sem-piscar"
+    },
+    {
+      "versao": "0.9.22",
+      "publicada_em": "2026-09-19",
+      "nota": "Merge pull request #72 from knoxviana/claude/aba-dashboard-brasindice"
+    },
+    {
+      "versao": "0.9.21",
+      "publicada_em": "2026-09-19",
+      "nota": "Merge pull request #70 from knoxviana/claude/hierarquia-painel"
+    },
+    {
+      "versao": "0.9.20",
+      "publicada_em": "2026-09-19",
+      "nota": "Merge pull request #69 from knoxviana/claude/secao-servicos-admin"
+    },
+    {
+      "versao": "0.9.19",
+      "publicada_em": "2026-09-19",
+      "nota": "Merge pull request #68 from knoxviana/claude/brasindice-tela-nativa"
+    },
+    {
+      "versao": "0.9.18",
+      "publicada_em": "2026-09-19",
+      "nota": "Merge pull request #66 from knoxviana/claude/servicos-brasindice"
+    },
+    {
+      "versao": "0.9.17",
+      "publicada_em": "2026-09-14",
+      "nota": "Panorama da Carteira: cada card agora tem explicação (de onde vem o número) e clicar em qualquer card/gráfico mostra quem compõe (lista de beneficiários)."
+    },
+    {
+      "versao": "0.9.16",
+      "publicada_em": "2026-09-12",
+      "nota": "Panorama da Carteira: dados corrigidos (titular/dependente real, sexo, empresa e movimento) — passa a ler a base rica de beneficiários; seção de qualidade do cadastro."
+    },
+    {
+      "versao": "0.9.15",
+      "publicada_em": "2026-09-11",
+      "nota": "Novo: Panorama da Carteira (Análises) — composição das vidas por status, sexo, faixa etária, plano, empresa e geografia, mais o movimento de entradas e saídas."
+    },
+    {
+      "versao": "0.9.14",
+      "publicada_em": "2026-09-11",
+      "nota": "Auditoria Bancária: a coluna Portal deixa de acusar divergência falsa — ela é a última solicitação (um log), que pode não ter sido aplicada; não conta mais como divergência."
+    },
+    {
+      "versao": "0.9.13",
+      "publicada_em": "2026-09-11",
+      "nota": "Nova tela em Administração — Histórico de Acessos: veja quem entrou no sistema, quando e de qual IP/dispositivo."
+    },
+    {
+      "versao": "0.9.12",
+      "publicada_em": "2026-08-25",
+      "nota": "Cartões: rótulo mostra o nome do cartão em vez do plano."
+    },
+    {
+      "versao": "0.9.11",
+      "publicada_em": "2026-08-21",
+      "nota": "Manifesto publicado automaticamente pelo release. A partir desta versão, uma atualização chega às instâncias sem nenhum passo manual do fabricante."
+    },
+    {
+      "versao": "0.9.10",
+      "publicada_em": "2026-08-21",
+      "nota": "Publicação do manifesto passa a ser automática: a instalação de uma versão nova deixa de depender de cópia manual."
+    },
+    {
+      "versao": "0.9.9",
+      "publicada_em": "2026-08-21",
+      "nota": "A instância volta a atualizar de verdade: a versão a instalar deixou de ser fixa no compose. Mensagem de recuperação de senha e textos de tela reescritos."
+    },
+    {
+      "versao": "0.9.7",
+      "publicada_em": "2026-08-20",
+      "nota": "Merge pull request #33 from knoxviana/claude/email-guard-allowlist-interno"
+    },
+    {
+      "versao": "0.9.6",
+      "publicada_em": "2026-08-11",
+      "nota": "Cor da operadora com texto de contraste automatico (WCAG)"
+    },
+    {
+      "versao": "0.9.5",
+      "publicada_em": "2026-08-11",
+      "nota": "Auditoria bancaria, Sit. 6/7 AME, diagnostico de instalacao, trilha de acesso, versao carimbada, paridade da demo"
+    },
+    {
+      "versao": "0.9.4",
+      "publicada_em": "2026-08-06",
+      "nota": "Diagnostico de instalacao, versao carimbada na imagem e demo com as copias do ERP"
+    },
+    {
+      "versao": "0.9.3",
+      "publicada_em": "2026-08-05",
+      "nota": "Auditoria Bancaria: tela por padrao de erro, dados abertos"
+    },
+    {
+      "versao": "0.9.2",
+      "publicada_em": "2026-08-05",
+      "nota": "Auditoria Bancaria: conferencia do dado bancario antes da remessa"
+    },
+    {
+      "versao": "0.9.1",
+      "publicada_em": "2026-08-05",
+      "nota": "DT-90: leitura local-first sem ciclo + trava de e-mail por ambiente"
+    },
+    {
+      "versao": "0.9.0",
+      "publicada_em": "2026-08-04",
+      "nota": "Alertas do ERP na ficha, protocolo e busca (Sit. 13)"
+    },
+    {
+      "versao": "0.8.4",
+      "publicada_em": "2026-08-04",
+      "nota": "Alerta de inadimplencia na busca (AME-38/Sit.12) + regras do score compartilhadas"
+    },
+    {
+      "versao": "0.8.3",
+      "publicada_em": "2026-08-04",
+      "nota": "Alinha dev com produto: catch-up do sync (#8), banner de defasagem (#9), inadimplencia FDW (#4), testes (#5), carencia FT (#6)"
+    },
+    {
+      "versao": "0.8.2",
+      "publicada_em": "2026-08-04",
+      "nota": "Atalho abre inadimplencia filtrada no beneficiario (busca por matricula do RF)"
+    },
+    {
+      "versao": "0.8.1",
+      "publicada_em": "2026-08-04",
+      "nota": "Score financeiro v2: faixas, piso, composicao da divida e legenda"
+    },
+    {
+      "versao": "0.8.0",
+      "publicada_em": "2026-08-04",
+      "nota": "Cartao Uniodonto sempre exibido (Sit.1/2) + cartao protagonista"
+    },
+    {
+      "versao": "0.7.9",
+      "publicada_em": "2026-08-04",
+      "nota": "Cartao protagonista: lightbox + copiar imagem + acoes discretas"
+    },
+    {
+      "versao": "0.7.8",
+      "publicada_em": "2026-08-04",
+      "nota": "Cartao: nao duplicar card teal quando ha imagem da API + copiar discreto"
+    },
+    {
+      "versao": "0.7.7",
+      "publicada_em": "2026-08-04",
+      "nota": "Carencia sync via staging + DELETE (nao trava leitura) + boot-warm condicional"
+    },
+    {
+      "versao": "0.7.6",
+      "publicada_em": "2026-08-04",
+      "nota": "Carencia read-model local-first (ADR 0009)"
+    },
+    {
+      "versao": "0.7.5",
+      "publicada_em": "2026-08-04",
+      "nota": "Sit.10 (idade/sexo/adesao) + UX carencias em vigor recolhidas"
+    },
+    {
+      "versao": "0.7.4",
+      "publicada_em": "2026-08-04",
+      "nota": "Sit.10 Metade A: idade, sexo e adesao na tela do beneficiario"
+    },
+    {
+      "versao": "0.7.3",
+      "publicada_em": "2026-08-04",
+      "nota": "fix(cartoes): reciprocidade EVIDA usa a imagem do tipo 'luminar' (#13)"
+    },
+    {
+      "versao": "0.7.2",
+      "publicada_em": "2026-08-04",
+      "nota": "docs: backlog AME-CRM (29 situacoes do levantamento da operacao) (#12)"
+    },
+    {
+      "versao": "0.7.1",
+      "publicada_em": "2026-08-03",
+      "nota": "fix(cartoes): mini da carteirinha branded (logo+dados) + index.html no-cache (#11)"
+    },
+    {
+      "versao": "0.7.0",
+      "publicada_em": "2026-08-03",
+      "nota": "fix(cartoes): renderiza a carteirinha do dado (imagem da operadora vem cortada) (#10)"
+    },
+    {
+      "versao": "0.6.0",
+      "publicada_em": "2026-08-03",
+      "nota": "Merge pull request #3 from knoxviana/claude/fix-cor-css-var"
+    },
+    {
+      "versao": "0.5.0",
+      "publicada_em": "2026-08-02",
+      "nota": "Merge pull request #1 from knoxviana/claude/tela-travada-selecao-ru2pdr"
+    },
+    {
+      "versao": "0.4.0",
+      "publicada_em": "2026-08-01",
+      "nota": "release v0.4.0 — fonte-unica reconciliada: baseline de migrations, cadeado de modulos, sql_guard, GestorOnly, dicionario MV, esteira de deploy"
+    },
+    {
+      "versao": "0.3.1",
+      "publicada_em": "2026-07-31",
+      "nota": "v0.3.1 — instalacao de cliente chave-na-mao"
+    },
+    {
+      "versao": "0.3.0",
+      "publicada_em": "2026-07-31",
+      "nota": "v0.3.0 — robustez Onda 1+2"
+    },
+    {
+      "versao": "0.2.7",
+      "publicada_em": "2026-07-24",
+      "nota": "feat(cartoes): imagem real dos cartoes (7 tipos, descoberta dinamica) + miniaturas + fix logo"
+    },
+    {
+      "versao": "0.2.6",
+      "publicada_em": "2026-07-20",
+      "nota": "feat(cartoes): exibe a imagem do cartao funcional (endpoint novo da operadora)"
+    },
+    {
+      "versao": "0.2.5",
+      "publicada_em": "2026-07-17",
+      "nota": "fix(white-label): remove Elosaude residual (placeholder + template email)"
+    },
+    {
+      "versao": "0.2.4",
+      "publicada_em": "2026-07-17",
+      "nota": "fix(branding): logo default NEUTRO (AURA), nao mais Elosaude"
+    },
+    {
+      "versao": "0.2.3",
+      "publicada_em": "2026-07-17",
+      "nota": "feat(radar): tooltips neutros (white-label) + esconde proveniencia na demo"
+    },
+    {
+      "versao": "0.2.2",
+      "publicada_em": "2026-07-17",
+      "nota": "test(instalacao): elimina flakiness do teste do fabricante no CI"
+    },
+    {
+      "versao": "0.2.1",
+      "publicada_em": "2026-07-17",
+      "nota": "fix(ux): rolagem ao topo na navegacao + toggle do submenu de projetos"
+    },
+    {
+      "versao": "0.2.0",
+      "publicada_em": "2026-07-17",
+      "nota": "feat(fabricante): painel do fabricante MVP — gestao de empresas + acesso demo"
+    },
+    {
+      "versao": "0.1.2",
+      "publicada_em": "2026-07-16",
+      "nota": "fix(instalacao): banco virgem + teste de instalacao + portao de testes no release"
+    },
+    {
+      "versao": "0.1.1",
+      "publicada_em": "2026-07-16",
+      "nota": "fix(init): primeiro boot em banco virgem (instalacao nova)"
+    },
+    {
+      "versao": "0.1.0",
+      "publicada_em": "2026-07-16",
+      "nota": "AURA - plataforma de gestao para operadoras de saude"
+    }
+  ]
 }
