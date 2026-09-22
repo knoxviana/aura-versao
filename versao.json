@@ -1,6 +1,6 @@
 {
-  "versao": "0.9.39",
+  "versao": "0.9.40",
   "publicada_em": "2026-09-22",
-  "nota": "O /health passa a apontar integração do Oracle que falta na instância. Antes, faltando a view do Resultado por Plano ou do DFC, a auditoria respondia \"ok\" e a tela abria vazia sem explicação. O contrato enviado ao DBA agora pede essas duas views. Corrige também a versão do cliente Oracle usada pelos relatórios MV.",
+  "nota": "Resultado por Plano: sync nao deadlocka mais em cargas simultaneas (trava de concorrencia); drill 'Fora das regras' abre no ano com seletor de periodo (antes abria em janeiro).",
   "url": "https://github.com/knoxviana/ecosistema_aura/releases"
 }
