@@ -1,6 +1,6 @@
 {
-  "versao": "0.9.40",
+  "versao": "0.9.41",
   "publicada_em": "2026-09-22",
-  "nota": "Resultado por Plano: sync nao deadlocka mais em cargas simultaneas (trava de concorrencia); drill 'Fora das regras' abre no ano com seletor de periodo (antes abria em janeiro).",
+  "nota": "E-mail em dev liberado por identidade (usuario ativo do AURA recebe com [TESTE]); beneficiario que nao e usuario segue protegido. Fail-closed.",
   "url": "https://github.com/knoxviana/ecosistema_aura/releases"
 }
