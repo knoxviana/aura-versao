@@ -1,9 +1,14 @@
 {
-  "versao": "0.9.44",
+  "versao": "0.9.45",
   "publicada_em": "2026-09-22",
-  "nota": "Resultado por Plano - aba 'Por plano': filtro de planos vira dropdown com busca e chips (Todos/Nenhum), e a selecao fica salva por usuario/navegador (nao reverte mais pro global de Regras e planos).",
+  "nota": "Resultado por Plano: aba 'Por plano' abre as linhas ate o detalhe (igual ao Painel, com expandir/recolher); e as deducoes de receita, glosas e demais contas que ficavam 'fora da regra' passam a entrar no resultado do plano.",
   "url": "https://github.com/knoxviana/ecosistema_aura/releases",
   "historico": [
+    {
+      "versao": "0.9.45",
+      "publicada_em": "2026-09-22",
+      "nota": "Resultado por Plano: aba 'Por plano' abre as linhas ate o detalhe (igual ao Painel, com expandir/recolher); e as deducoes de receita, glosas e demais contas que ficavam 'fora da regra' passam a entrar no resultado do plano."
+    },
     {
       "versao": "0.9.44",
       "publicada_em": "2026-09-22",
