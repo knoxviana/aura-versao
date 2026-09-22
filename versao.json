@@ -1,6 +1,6 @@
 {
-  "versao": "0.9.37",
-  "publicada_em": "2026-09-21",
-  "nota": "Botão \"Atualizar\" na tela de Configurações da Operadora: o admin vê a versão disponível e pede a atualização por ali. Quem aplica continua sendo o agente do servidor.",
+  "versao": "0.9.38",
+  "publicada_em": "2026-09-22",
+  "nota": "Resultado por Plano passa a aparecer no menu de quem já tinha o AURA instalado. O módulo subiu na 0.9.37 e ficava invisível: a linha existia no banco, mas a liberação de acesso só era criada em instalação nova. Agora todo módulo novo alcança também a instalação que já rodava.",
   "url": "https://github.com/knoxviana/ecosistema_aura/releases"
 }
