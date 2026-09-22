@@ -1,9 +1,14 @@
 {
-  "versao": "0.9.43",
+  "versao": "0.9.44",
   "publicada_em": "2026-09-22",
-  "nota": "Resultado por Plano: tooltips explicando a regra de calculo e os campos (para o financeiro). Configuracoes: historico de versoes na tela (o que mudou em cada versao) e 'Ultima consulta' em horario de Brasilia.",
+  "nota": "Resultado por Plano - aba 'Por plano': filtro de planos vira dropdown com busca e chips (Todos/Nenhum), e a selecao fica salva por usuario/navegador (nao reverte mais pro global de Regras e planos).",
   "url": "https://github.com/knoxviana/ecosistema_aura/releases",
   "historico": [
+    {
+      "versao": "0.9.44",
+      "publicada_em": "2026-09-22",
+      "nota": "Resultado por Plano - aba 'Por plano': filtro de planos vira dropdown com busca e chips (Todos/Nenhum), e a selecao fica salva por usuario/navegador (nao reverte mais pro global de Regras e planos)."
+    },
     {
       "versao": "0.9.43",
       "publicada_em": "2026-09-22",
