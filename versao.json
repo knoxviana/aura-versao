@@ -1,6 +1,6 @@
 {
-  "versao": "0.9.38",
+  "versao": "0.9.39",
   "publicada_em": "2026-09-22",
-  "nota": "Resultado por Plano passa a aparecer no menu de quem já tinha o AURA instalado. O módulo subiu na 0.9.37 e ficava invisível: a linha existia no banco, mas a liberação de acesso só era criada em instalação nova. Agora todo módulo novo alcança também a instalação que já rodava.",
+  "nota": "O /health passa a apontar integração do Oracle que falta na instância. Antes, faltando a view do Resultado por Plano ou do DFC, a auditoria respondia \"ok\" e a tela abria vazia sem explicação. O contrato enviado ao DBA agora pede essas duas views. Corrige também a versão do cliente Oracle usada pelos relatórios MV.",
   "url": "https://github.com/knoxviana/ecosistema_aura/releases"
 }
