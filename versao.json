@@ -1,9 +1,14 @@
 {
-  "versao": "0.9.46",
+  "versao": "0.9.47",
   "publicada_em": "2026-09-23",
-  "nota": "Resultado por Plano: nova aba Analítico (variação % mês a mês) e filtro Pré/Pós na tela Por plano (Pós=reembolsado, Pré=custo da operadora).",
+  "nota": "Resultado por Plano: aba Acumulado (Atividades Operacional/Administrativa/Financeira + matriz Pré/Pós × Médico/Odontológico com recuperação como redutora de despesa) e refinamentos do Analítico (variação vs dezembro anterior, coluna/cabeçalho fixos, Glosa Captation agrupada).",
   "url": "https://github.com/knoxviana/ecosistema_aura/releases",
   "historico": [
+    {
+      "versao": "0.9.47",
+      "publicada_em": "2026-09-23",
+      "nota": "Resultado por Plano: aba Acumulado (Atividades Operacional/Administrativa/Financeira + matriz Pré/Pós × Médico/Odontológico com recuperação como redutora de despesa) e refinamentos do Analítico (variação vs dezembro anterior, coluna/cabeçalho fixos, Glosa Captation agrupada)."
+    },
     {
       "versao": "0.9.46",
       "publicada_em": "2026-09-23",
