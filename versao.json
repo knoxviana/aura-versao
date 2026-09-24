@@ -1,9 +1,14 @@
 {
-  "versao": "0.9.49",
+  "versao": "0.9.50",
   "publicada_em": "2026-09-24",
-  "nota": "Resultado por Plano: Acumulado passa a mostrar a empresa inteira (todos os planos + administrativo, Pré preenchido) e sync de utilização incremental mês a mês.",
+  "nota": "Resultado por Plano: Acumulado no modelo exato da planilha (Mensalidades pré/pós, SUS, PEONA, ajustes fora do modelo) e seletor Acumulado até.",
   "url": "https://github.com/knoxviana/ecosistema_aura/releases",
   "historico": [
+    {
+      "versao": "0.9.50",
+      "publicada_em": "2026-09-24",
+      "nota": "Resultado por Plano: Acumulado no modelo exato da planilha (Mensalidades pré/pós, SUS, PEONA, ajustes fora do modelo) e seletor Acumulado até."
+    },
     {
       "versao": "0.9.49",
       "publicada_em": "2026-09-24",
