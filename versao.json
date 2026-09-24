@@ -1,9 +1,14 @@
 {
-  "versao": "0.9.52",
+  "versao": "0.9.53",
   "publicada_em": "2026-09-24",
-  "nota": "Contabilidade: novo menu (Resultado por Plano + Demonstrações Contábeis) com o balancete entregue à ANS e comparação com até 3 operadoras",
+  "nota": "Demonstrações Contábeis igual à página da ANS: Ativo, Passivo e DRE lado a lado, Resultado Líquido em destaque e soma por segmento (modalidade, grupo, UF)",
   "url": "https://github.com/knoxviana/ecosistema_aura/releases",
   "historico": [
+    {
+      "versao": "0.9.53",
+      "publicada_em": "2026-09-24",
+      "nota": "Demonstrações Contábeis igual à página da ANS: Ativo, Passivo e DRE lado a lado, Resultado Líquido em destaque e soma por segmento (modalidade, grupo, UF)"
+    },
     {
       "versao": "0.9.52",
       "publicada_em": "2026-09-24",
