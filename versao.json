@@ -1,9 +1,14 @@
 {
-  "versao": "0.9.50",
+  "versao": "0.9.51",
   "publicada_em": "2026-09-24",
-  "nota": "Resultado por Plano: Acumulado no modelo exato da planilha (Mensalidades pré/pós, SUS, PEONA, ajustes fora do modelo) e seletor Acumulado até.",
+  "nota": "Resultado por Plano: aba Diagnóstico (o que fez a conta variar, por grupo de procedimento) ligada aos gráficos do Dashboard, com reconciliação contra a linha Eventos do balancete",
   "url": "https://github.com/knoxviana/ecosistema_aura/releases",
   "historico": [
+    {
+      "versao": "0.9.51",
+      "publicada_em": "2026-09-24",
+      "nota": "Resultado por Plano: aba Diagnóstico (o que fez a conta variar, por grupo de procedimento) ligada aos gráficos do Dashboard, com reconciliação contra a linha Eventos do balancete"
+    },
     {
       "versao": "0.9.50",
       "publicada_em": "2026-09-24",
