@@ -1,9 +1,14 @@
 {
-  "versao": "0.9.51",
+  "versao": "0.9.52",
   "publicada_em": "2026-09-24",
-  "nota": "Resultado por Plano: aba Diagnóstico (o que fez a conta variar, por grupo de procedimento) ligada aos gráficos do Dashboard, com reconciliação contra a linha Eventos do balancete",
+  "nota": "Contabilidade: novo menu (Resultado por Plano + Demonstrações Contábeis) com o balancete entregue à ANS e comparação com até 3 operadoras",
   "url": "https://github.com/knoxviana/ecosistema_aura/releases",
   "historico": [
+    {
+      "versao": "0.9.52",
+      "publicada_em": "2026-09-24",
+      "nota": "Contabilidade: novo menu (Resultado por Plano + Demonstrações Contábeis) com o balancete entregue à ANS e comparação com até 3 operadoras"
+    },
     {
       "versao": "0.9.51",
       "publicada_em": "2026-09-24",
