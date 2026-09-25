@@ -1,9 +1,14 @@
 {
-  "versao": "0.9.55",
+  "versao": "0.9.56",
   "publicada_em": "2026-09-25",
-  "nota": "Diagnóstico: clique num grupo para ver o que está dentro (procedimento, prestador e beneficiário), com variação entre os meses",
+  "nota": "Kanban: tarefas internas (Nova tarefa, cardápio de tarefas, finalização com resultado) e filtro Atendimentos/Tarefas no dashboard; correção dos rótulos do gráfico do Diagnóstico",
   "url": "https://github.com/knoxviana/ecosistema_aura/releases",
   "historico": [
+    {
+      "versao": "0.9.56",
+      "publicada_em": "2026-09-25",
+      "nota": "Kanban: tarefas internas (Nova tarefa, cardápio de tarefas, finalização com resultado) e filtro Atendimentos/Tarefas no dashboard; correção dos rótulos do gráfico do Diagnóstico"
+    },
     {
       "versao": "0.9.55",
       "publicada_em": "2026-09-25",
