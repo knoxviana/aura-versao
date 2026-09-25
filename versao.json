@@ -1,9 +1,14 @@
 {
-  "versao": "0.9.56",
+  "versao": "0.9.57",
   "publicada_em": "2026-09-25",
-  "nota": "Kanban: tarefas internas (Nova tarefa, cardápio de tarefas, finalização com resultado) e filtro Atendimentos/Tarefas no dashboard; correção dos rótulos do gráfico do Diagnóstico",
+  "nota": "Menu do usuário no cabeçalho com Alterar minha senha; falha no e-mail de recuperação passa a aparecer no log",
   "url": "https://github.com/knoxviana/ecosistema_aura/releases",
   "historico": [
+    {
+      "versao": "0.9.57",
+      "publicada_em": "2026-09-25",
+      "nota": "Menu do usuário no cabeçalho com Alterar minha senha; falha no e-mail de recuperação passa a aparecer no log"
+    },
     {
       "versao": "0.9.56",
       "publicada_em": "2026-09-25",
