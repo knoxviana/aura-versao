@@ -1,9 +1,14 @@
 {
-  "versao": "0.9.54",
+  "versao": "0.9.55",
   "publicada_em": "2026-09-25",
-  "nota": "Correções: tooltips que não são mais cortados, carga da ANS em segundo plano, Diagnóstico abre no último mês fechado e outras melhorias de estabilidade",
+  "nota": "Diagnóstico: clique num grupo para ver o que está dentro (procedimento, prestador e beneficiário), com variação entre os meses",
   "url": "https://github.com/knoxviana/ecosistema_aura/releases",
   "historico": [
+    {
+      "versao": "0.9.55",
+      "publicada_em": "2026-09-25",
+      "nota": "Diagnóstico: clique num grupo para ver o que está dentro (procedimento, prestador e beneficiário), com variação entre os meses"
+    },
     {
       "versao": "0.9.54",
       "publicada_em": "2026-09-25",
