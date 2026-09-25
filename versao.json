@@ -1,9 +1,14 @@
 {
-  "versao": "0.9.53",
-  "publicada_em": "2026-09-24",
-  "nota": "Demonstrações Contábeis igual à página da ANS: Ativo, Passivo e DRE lado a lado, Resultado Líquido em destaque e soma por segmento (modalidade, grupo, UF)",
+  "versao": "0.9.54",
+  "publicada_em": "2026-09-25",
+  "nota": "Correções: tooltips que não são mais cortados, carga da ANS em segundo plano, Diagnóstico abre no último mês fechado e outras melhorias de estabilidade",
   "url": "https://github.com/knoxviana/ecosistema_aura/releases",
   "historico": [
+    {
+      "versao": "0.9.54",
+      "publicada_em": "2026-09-25",
+      "nota": "Correções: tooltips que não são mais cortados, carga da ANS em segundo plano, Diagnóstico abre no último mês fechado e outras melhorias de estabilidade"
+    },
     {
       "versao": "0.9.53",
       "publicada_em": "2026-09-24",
