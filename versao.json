@@ -1,9 +1,14 @@
 {
-  "versao": "0.9.58",
-  "publicada_em": "2026-09-25",
-  "nota": "Malha (Fraudes): régua de reembolso com setor obrigatório, simulação e abertura de tarefas; cardápio de tarefas corrigido",
+  "versao": "0.9.59",
+  "publicada_em": "2026-09-26",
+  "nota": "Malha: balizamento de casos conhecidos (faixa, composição e validade), tarefa com o beneficiário e R$ em análise no dashboard",
   "url": "https://github.com/knoxviana/ecosistema_aura/releases",
   "historico": [
+    {
+      "versao": "0.9.59",
+      "publicada_em": "2026-09-26",
+      "nota": "Malha: balizamento de casos conhecidos (faixa, composição e validade), tarefa com o beneficiário e R$ em análise no dashboard"
+    },
     {
       "versao": "0.9.58",
       "publicada_em": "2026-09-25",
