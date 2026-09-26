@@ -1,9 +1,14 @@
 {
-  "versao": "0.9.60",
+  "versao": "0.9.61",
   "publicada_em": "2026-09-26",
-  "nota": "Auditoria Bancária volta a funcionar quando o caminho do Oracle Client configurado não existe (usa o cliente da imagem)",
+  "nota": "Registrar parecer na tarefa da régua (justificado com aprovação do gestor, irregular com dossiê, inconclusivo); @menção no registro do card",
   "url": "https://github.com/knoxviana/ecosistema_aura/releases",
   "historico": [
+    {
+      "versao": "0.9.61",
+      "publicada_em": "2026-09-26",
+      "nota": "Registrar parecer na tarefa da régua (justificado com aprovação do gestor, irregular com dossiê, inconclusivo); @menção no registro do card"
+    },
     {
       "versao": "0.9.60",
       "publicada_em": "2026-09-26",
