@@ -1,9 +1,14 @@
 {
-  "versao": "0.9.63",
+  "versao": "0.9.64",
   "publicada_em": "2026-09-29",
-  "nota": "Remédios mais claros: no Diagnóstico da Contabilidade, os grupos de medicamentos agora podem ser abertos por classe terapêutica (como oncológicos e antidiabéticos) e por princípio ativo, somando todas as doses e embalagens; o 'i' explica de onde vem essa informação. O Radar da Carteira passa a reconhecer tratamentos pela classe do remédio, identificando mais beneficiários em oncologia, doenças autoimunes, diabetes e outras linhas de cuidado. Os certificados da Academia voltam a mostrar o logo da operadora.",
+  "nota": "Mais clareza sobre o que fez o gasto variar: no Diagnóstico da Contabilidade, ao abrir um item comparando dois meses, aparece de onde veio a variação — quantas pessoas começaram a usar, gastaram mais, gastaram menos ou pararam, e quanto cada grupo somou — e a lista das maiores altas e quedas por prestador e por beneficiário. Os reembolsos sem código de prestador passam a aparecer juntos com o rótulo certo, e os grupos de farmácia sem o nome do remédio explicam o porquê.",
   "url": "https://github.com/knoxviana/ecosistema_aura/releases",
   "historico": [
+    {
+      "versao": "0.9.64",
+      "publicada_em": "2026-09-29",
+      "nota": "Mais clareza sobre o que fez o gasto variar: no Diagnóstico da Contabilidade, ao abrir um item comparando dois meses, aparece de onde veio a variação — quantas pessoas começaram a usar, gastaram mais, gastaram menos ou pararam, e quanto cada grupo somou — e a lista das maiores altas e quedas por prestador e por beneficiário. Os reembolsos sem código de prestador passam a aparecer juntos com o rótulo certo, e os grupos de farmácia sem o nome do remédio explicam o porquê."
+    },
     {
       "versao": "0.9.63",
       "publicada_em": "2026-09-29",
