@@ -1,9 +1,14 @@
 {
-  "versao": "0.9.67",
+  "versao": "0.9.68",
   "publicada_em": "2026-09-29",
-  "nota": "Farmácia com o nome do remédio: em Contabilidade › Resultado por Plano › Cargas, é possível importar o relatório detalhado de compras do cartão farmácia. O sistema mostra uma prévia (quantas compras, quantas pessoas foram reconhecidas no cadastro e o valor) antes de gravar. Depois disso, no Diagnóstico, a farmácia passa a abrir por classe de remédio, princípio ativo, produto, farmácia e médico, comparando os meses.",
+  "nota": "Qualidade das operadoras: em Contabilidade › Demonstrações Contábeis, o IDSS da ANS aparece para a operadora e as comparadas — nota geral, as 4 dimensões, a posição entre as operadoras da mesma modalidade e a evolução desde 2016, com o 'i' explicando cada dimensão. O módulo Brasíndice passa a abrir pelo mesmo endereço do AURA, resolvendo a mensagem de módulo fora do ar para quem acessa pelo endereço seguro.",
   "url": "https://github.com/knoxviana/ecosistema_aura/releases",
   "historico": [
+    {
+      "versao": "0.9.68",
+      "publicada_em": "2026-09-29",
+      "nota": "Qualidade das operadoras: em Contabilidade › Demonstrações Contábeis, o IDSS da ANS aparece para a operadora e as comparadas — nota geral, as 4 dimensões, a posição entre as operadoras da mesma modalidade e a evolução desde 2016, com o 'i' explicando cada dimensão. O módulo Brasíndice passa a abrir pelo mesmo endereço do AURA, resolvendo a mensagem de módulo fora do ar para quem acessa pelo endereço seguro."
+    },
     {
       "versao": "0.9.67",
       "publicada_em": "2026-09-29",
