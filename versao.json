@@ -1,9 +1,14 @@
 {
-  "versao": "0.9.68",
+  "versao": "0.9.69",
   "publicada_em": "2026-09-29",
-  "nota": "Qualidade das operadoras: em Contabilidade › Demonstrações Contábeis, o IDSS da ANS aparece para a operadora e as comparadas — nota geral, as 4 dimensões, a posição entre as operadoras da mesma modalidade e a evolução desde 2016, com o 'i' explicando cada dimensão. O módulo Brasíndice passa a abrir pelo mesmo endereço do AURA, resolvendo a mensagem de módulo fora do ar para quem acessa pelo endereço seguro.",
+  "nota": "Contabilidade ganhou a Frente IDSS: além de comparar a nota do IDSS com outras operadoras, agora dá para ver, indicador por indicador, como a nossa carteira está nas regras da ANS — por exemplo, preventivo das mulheres, acompanhamento de diabéticos e consultas de idosos com médico generalista. Cada indicador mostra onde estamos, quanto falta para a meta, em qual faixa de idade ou plano está a diferença e a lista de quem ainda não foi alcançado, para organizar campanhas. Tudo com o 'i' explicando a regra.",
   "url": "https://github.com/knoxviana/ecosistema_aura/releases",
   "historico": [
+    {
+      "versao": "0.9.69",
+      "publicada_em": "2026-09-29",
+      "nota": "Contabilidade ganhou a Frente IDSS: além de comparar a nota do IDSS com outras operadoras, agora dá para ver, indicador por indicador, como a nossa carteira está nas regras da ANS — por exemplo, preventivo das mulheres, acompanhamento de diabéticos e consultas de idosos com médico generalista. Cada indicador mostra onde estamos, quanto falta para a meta, em qual faixa de idade ou plano está a diferença e a lista de quem ainda não foi alcançado, para organizar campanhas. Tudo com o 'i' explicando a regra."
+    },
     {
       "versao": "0.9.68",
       "publicada_em": "2026-09-29",
