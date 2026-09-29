@@ -1,9 +1,14 @@
 {
-  "versao": "0.9.69",
+  "versao": "0.9.70",
   "publicada_em": "2026-09-29",
-  "nota": "Contabilidade ganhou a Frente IDSS: além de comparar a nota do IDSS com outras operadoras, agora dá para ver, indicador por indicador, como a nossa carteira está nas regras da ANS — por exemplo, preventivo das mulheres, acompanhamento de diabéticos e consultas de idosos com médico generalista. Cada indicador mostra onde estamos, quanto falta para a meta, em qual faixa de idade ou plano está a diferença e a lista de quem ainda não foi alcançado, para organizar campanhas. Tudo com o 'i' explicando a regra.",
+  "nota": "Radar corrigido: a especialidade de cada médico agora vem do cadastro oficial do sistema da operadora. Antes, uma tabela interna trocava nomes — cardiologista aparecia como ginecologista, por exemplo — e por isso as consultas de cardiologia dos homens eram descartadas e exames de imagem eram somados como gasto com remédio. Com a correção, a semelhança de cada beneficiário com quem adoeceu passa a ser calculada com as especialidades certas; alguns percentuais vão mudar por isso.",
   "url": "https://github.com/knoxviana/ecosistema_aura/releases",
   "historico": [
+    {
+      "versao": "0.9.70",
+      "publicada_em": "2026-09-29",
+      "nota": "Radar corrigido: a especialidade de cada médico agora vem do cadastro oficial do sistema da operadora. Antes, uma tabela interna trocava nomes — cardiologista aparecia como ginecologista, por exemplo — e por isso as consultas de cardiologia dos homens eram descartadas e exames de imagem eram somados como gasto com remédio. Com a correção, a semelhança de cada beneficiário com quem adoeceu passa a ser calculada com as especialidades certas; alguns percentuais vão mudar por isso."
+    },
     {
       "versao": "0.9.69",
       "publicada_em": "2026-09-29",
