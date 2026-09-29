@@ -1,9 +1,14 @@
 {
-  "versao": "0.9.64",
+  "versao": "0.9.65",
   "publicada_em": "2026-09-29",
-  "nota": "Mais clareza sobre o que fez o gasto variar: no Diagnóstico da Contabilidade, ao abrir um item comparando dois meses, aparece de onde veio a variação — quantas pessoas começaram a usar, gastaram mais, gastaram menos ou pararam, e quanto cada grupo somou — e a lista das maiores altas e quedas por prestador e por beneficiário. Os reembolsos sem código de prestador passam a aparecer juntos com o rótulo certo, e os grupos de farmácia sem o nome do remédio explicam o porquê.",
+  "nota": "O detalhamento do Diagnóstico ficou até 20 vezes mais rápido: ao comparar dois meses, abrir um item e ver de onde veio a variação agora leva menos de um segundo.",
   "url": "https://github.com/knoxviana/ecosistema_aura/releases",
   "historico": [
+    {
+      "versao": "0.9.65",
+      "publicada_em": "2026-09-29",
+      "nota": "O detalhamento do Diagnóstico ficou até 20 vezes mais rápido: ao comparar dois meses, abrir um item e ver de onde veio a variação agora leva menos de um segundo."
+    },
     {
       "versao": "0.9.64",
       "publicada_em": "2026-09-29",
