@@ -1,9 +1,14 @@
 {
-  "versao": "0.9.62",
-  "publicada_em": "2026-09-28",
-  "nota": "Mais segurança para as informações: cada pessoa passa a ver somente as áreas liberadas para o seu perfil, inclusive os dados de saúde e de cobrança dos beneficiários. Ao trocar a senha, qualquer outro acesso aberto com a senha antiga é encerrado. O link que o beneficiário recebe por e-mail para acompanhar o atendimento ficou protegido, e o histórico do atendimento voltou a aparecer para ele. O Radar passa a reconhecer remédios pelo nome comercial (como Mounjaro e Glifage), identificando mais beneficiários nas linhas de cuidado. O sininho do topo agora avisa todos quando alguém os menciona, e o logo aparece em branco no cabeçalho.",
+  "versao": "0.9.63",
+  "publicada_em": "2026-09-29",
+  "nota": "Remédios mais claros: no Diagnóstico da Contabilidade, os grupos de medicamentos agora podem ser abertos por classe terapêutica (como oncológicos e antidiabéticos) e por princípio ativo, somando todas as doses e embalagens; o 'i' explica de onde vem essa informação. O Radar da Carteira passa a reconhecer tratamentos pela classe do remédio, identificando mais beneficiários em oncologia, doenças autoimunes, diabetes e outras linhas de cuidado. Os certificados da Academia voltam a mostrar o logo da operadora.",
   "url": "https://github.com/knoxviana/ecosistema_aura/releases",
   "historico": [
+    {
+      "versao": "0.9.63",
+      "publicada_em": "2026-09-29",
+      "nota": "Remédios mais claros: no Diagnóstico da Contabilidade, os grupos de medicamentos agora podem ser abertos por classe terapêutica (como oncológicos e antidiabéticos) e por princípio ativo, somando todas as doses e embalagens; o 'i' explica de onde vem essa informação. O Radar da Carteira passa a reconhecer tratamentos pela classe do remédio, identificando mais beneficiários em oncologia, doenças autoimunes, diabetes e outras linhas de cuidado. Os certificados da Academia voltam a mostrar o logo da operadora."
+    },
     {
       "versao": "0.9.62",
       "publicada_em": "2026-09-28",
