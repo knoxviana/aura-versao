@@ -1,9 +1,14 @@
 {
-  "versao": "0.9.66",
+  "versao": "0.9.67",
   "publicada_em": "2026-09-29",
-  "nota": "O Diagnóstico explica melhor o que fez o gasto variar: olhando os últimos 6 meses de cada pessoa, separa quem começou a usar de quem só voltou depois de pular um mês, quem gastou mais ou menos, quem pausou e quem usou pontualmente. Um alerta mostra quem costumava usar e está há mais de 60 dias sem nenhuma conta, com a lista para acompanhar. Cada quadro tem o 'i' explicando como ler.",
+  "nota": "Farmácia com o nome do remédio: em Contabilidade › Resultado por Plano › Cargas, é possível importar o relatório detalhado de compras do cartão farmácia. O sistema mostra uma prévia (quantas compras, quantas pessoas foram reconhecidas no cadastro e o valor) antes de gravar. Depois disso, no Diagnóstico, a farmácia passa a abrir por classe de remédio, princípio ativo, produto, farmácia e médico, comparando os meses.",
   "url": "https://github.com/knoxviana/ecosistema_aura/releases",
   "historico": [
+    {
+      "versao": "0.9.67",
+      "publicada_em": "2026-09-29",
+      "nota": "Farmácia com o nome do remédio: em Contabilidade › Resultado por Plano › Cargas, é possível importar o relatório detalhado de compras do cartão farmácia. O sistema mostra uma prévia (quantas compras, quantas pessoas foram reconhecidas no cadastro e o valor) antes de gravar. Depois disso, no Diagnóstico, a farmácia passa a abrir por classe de remédio, princípio ativo, produto, farmácia e médico, comparando os meses."
+    },
     {
       "versao": "0.9.66",
       "publicada_em": "2026-09-29",
