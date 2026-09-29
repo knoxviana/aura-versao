@@ -1,9 +1,14 @@
 {
-  "versao": "0.9.65",
+  "versao": "0.9.66",
   "publicada_em": "2026-09-29",
-  "nota": "O detalhamento do Diagnóstico ficou até 20 vezes mais rápido: ao comparar dois meses, abrir um item e ver de onde veio a variação agora leva menos de um segundo.",
+  "nota": "O Diagnóstico explica melhor o que fez o gasto variar: olhando os últimos 6 meses de cada pessoa, separa quem começou a usar de quem só voltou depois de pular um mês, quem gastou mais ou menos, quem pausou e quem usou pontualmente. Um alerta mostra quem costumava usar e está há mais de 60 dias sem nenhuma conta, com a lista para acompanhar. Cada quadro tem o 'i' explicando como ler.",
   "url": "https://github.com/knoxviana/ecosistema_aura/releases",
   "historico": [
+    {
+      "versao": "0.9.66",
+      "publicada_em": "2026-09-29",
+      "nota": "O Diagnóstico explica melhor o que fez o gasto variar: olhando os últimos 6 meses de cada pessoa, separa quem começou a usar de quem só voltou depois de pular um mês, quem gastou mais ou menos, quem pausou e quem usou pontualmente. Um alerta mostra quem costumava usar e está há mais de 60 dias sem nenhuma conta, com a lista para acompanhar. Cada quadro tem o 'i' explicando como ler."
+    },
     {
       "versao": "0.9.65",
       "publicada_em": "2026-09-29",
