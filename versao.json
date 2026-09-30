@@ -1,9 +1,14 @@
 {
-  "versao": "0.9.73",
+  "versao": "0.9.74",
   "publicada_em": "2026-09-30",
-  "nota": "Nova tela em Administração: Qualidade do dado. Ela confere automaticamente o dado que vem do sistema da operadora e aponta o que está incompleto ou estranho — por exemplo, consultas sem a especialidade do médico, consultas lançadas com profissional que não é médico e especialidades cadastradas sem o código de ocupação que a ANS exige. Cada item diz quem deve corrigir (o sistema da operadora ou o AURA), mostra a evolução mês a mês e traz exemplos para a equipe conferir, com o 'i' explicando cada verificação.",
+  "nota": "Tela Qualidade do dado mais rápida de abrir: as verificações agora são calculadas em segundo plano, então a tela abre na hora e se atualiza sozinha quando o cálculo termina (antes, logo após uma atualização do sistema, ela podia dar erro de tempo esgotado). Também corrigida a ordem dos meses no gráfico.",
   "url": "https://github.com/knoxviana/ecosistema_aura/releases",
   "historico": [
+    {
+      "versao": "0.9.74",
+      "publicada_em": "2026-09-30",
+      "nota": "Tela Qualidade do dado mais rápida de abrir: as verificações agora são calculadas em segundo plano, então a tela abre na hora e se atualiza sozinha quando o cálculo termina (antes, logo após uma atualização do sistema, ela podia dar erro de tempo esgotado). Também corrigida a ordem dos meses no gráfico."
+    },
     {
       "versao": "0.9.73",
       "publicada_em": "2026-09-30",
