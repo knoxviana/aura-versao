@@ -1,9 +1,14 @@
 {
-  "versao": "0.9.76",
+  "versao": "0.9.77",
   "publicada_em": "2026-09-30",
-  "nota": "Carências voltam a aparecer para quem entrou no plano recentemente: a ficha do beneficiário mostrava 'Carências indisponíveis' para quem aderiu depois da última atualização de um cadastro auxiliar. Agora a carência é buscada no mesmo cadastro que a ficha já usa, atualizado todo dia. Quando a pessoa não tem carência, a ficha passa a dizer claramente 'Nenhuma carência registrada no sistema da operadora'.",
+  "nota": "O IDSS ganhou menu próprio: 'Indicadores ANS', na seção Análises (antes ficava dentro da Contabilidade). Lá estão a nota da operadora comparada ao mercado, a Frente IDSS e o acompanhamento do câncer de mama. A Frente agora abre no ano corrente e usa as regras da ANS válidas para este ano — por exemplo, o teste de HPV passou a contar no preventivo do colo do útero —, mostrando quem ainda não fez o exame em 2026 para ser chamado. Quem tinha acesso à Contabilidade continua vendo o IDSS no menu novo.",
   "url": "https://github.com/knoxviana/ecosistema_aura/releases",
   "historico": [
+    {
+      "versao": "0.9.77",
+      "publicada_em": "2026-09-30",
+      "nota": "O IDSS ganhou menu próprio: 'Indicadores ANS', na seção Análises (antes ficava dentro da Contabilidade). Lá estão a nota da operadora comparada ao mercado, a Frente IDSS e o acompanhamento do câncer de mama. A Frente agora abre no ano corrente e usa as regras da ANS válidas para este ano — por exemplo, o teste de HPV passou a contar no preventivo do colo do útero —, mostrando quem ainda não fez o exame em 2026 para ser chamado. Quem tinha acesso à Contabilidade continua vendo o IDSS no menu novo."
+    },
     {
       "versao": "0.9.76",
       "publicada_em": "2026-09-30",
