@@ -1,9 +1,14 @@
 {
-  "versao": "0.9.71",
+  "versao": "0.9.72",
   "publicada_em": "2026-09-30",
-  "nota": "Cadastro de beneficiários mais completo: quem tem mais de uma matrícula (por exemplo, plano médico e plano odontológico) passava a ter só uma delas no AURA, e às vezes justamente a do odonto. Agora o sistema guarda todas as matrículas. Com isso, os indicadores da Frente IDSS passam a contar cerca de 1.600 pessoas que estavam de fora, e os números ficam mais próximos da realidade. A busca e a ficha do beneficiário não mudam.",
+  "nota": "Radar mais completo: o Radar passou a usar o cadastro completo de beneficiários vindo do sistema da operadora para saber idade, sexo, tempo de plano e se a pessoa é titular ou dependente. Com isso, cerca de 3 mil pessoas que usam o plano e ficavam sem avaliação passam a ser acompanhadas, e a diferença entre titular e dependente passa a contar na análise de risco. Exames de laboratório de microbiologia e genética também passam a aparecer no grupo Laboratório.",
   "url": "https://github.com/knoxviana/ecosistema_aura/releases",
   "historico": [
+    {
+      "versao": "0.9.72",
+      "publicada_em": "2026-09-30",
+      "nota": "Radar mais completo: o Radar passou a usar o cadastro completo de beneficiários vindo do sistema da operadora para saber idade, sexo, tempo de plano e se a pessoa é titular ou dependente. Com isso, cerca de 3 mil pessoas que usam o plano e ficavam sem avaliação passam a ser acompanhadas, e a diferença entre titular e dependente passa a contar na análise de risco. Exames de laboratório de microbiologia e genética também passam a aparecer no grupo Laboratório."
+    },
     {
       "versao": "0.9.71",
       "publicada_em": "2026-09-30",
