@@ -1,9 +1,14 @@
 {
-  "versao": "0.9.74",
+  "versao": "0.9.75",
   "publicada_em": "2026-09-30",
-  "nota": "Tela Qualidade do dado mais rápida de abrir: as verificações agora são calculadas em segundo plano, então a tela abre na hora e se atualiza sozinha quando o cálculo termina (antes, logo após uma atualização do sistema, ela podia dar erro de tempo esgotado). Também corrigida a ordem dos meses no gráfico.",
+  "nota": "Frente IDSS mais completa e mais limpa: agora aparecem as quatro dimensões do IDSS com a nota oficial da ANS da operadora, cada uma fechada num menu que abre ao clicar — as duas de cuidado (qualidade e acesso) abrem indicador a indicador. E entrou o acompanhamento do câncer de mama: quantas mulheres de 50 a 74 anos fizeram mamografia nos últimos 2 anos, quantas faltam para a meta de 70% e a lista de quem precisa ser chamada.",
   "url": "https://github.com/knoxviana/ecosistema_aura/releases",
   "historico": [
+    {
+      "versao": "0.9.75",
+      "publicada_em": "2026-09-30",
+      "nota": "Frente IDSS mais completa e mais limpa: agora aparecem as quatro dimensões do IDSS com a nota oficial da ANS da operadora, cada uma fechada num menu que abre ao clicar — as duas de cuidado (qualidade e acesso) abrem indicador a indicador. E entrou o acompanhamento do câncer de mama: quantas mulheres de 50 a 74 anos fizeram mamografia nos últimos 2 anos, quantas faltam para a meta de 70% e a lista de quem precisa ser chamada."
+    },
     {
       "versao": "0.9.74",
       "publicada_em": "2026-09-30",
