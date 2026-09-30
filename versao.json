@@ -1,9 +1,14 @@
 {
-  "versao": "0.9.70",
-  "publicada_em": "2026-09-29",
-  "nota": "Radar corrigido: a especialidade de cada médico agora vem do cadastro oficial do sistema da operadora. Antes, uma tabela interna trocava nomes — cardiologista aparecia como ginecologista, por exemplo — e por isso as consultas de cardiologia dos homens eram descartadas e exames de imagem eram somados como gasto com remédio. Com a correção, a semelhança de cada beneficiário com quem adoeceu passa a ser calculada com as especialidades certas; alguns percentuais vão mudar por isso.",
+  "versao": "0.9.71",
+  "publicada_em": "2026-09-30",
+  "nota": "Cadastro de beneficiários mais completo: quem tem mais de uma matrícula (por exemplo, plano médico e plano odontológico) passava a ter só uma delas no AURA, e às vezes justamente a do odonto. Agora o sistema guarda todas as matrículas. Com isso, os indicadores da Frente IDSS passam a contar cerca de 1.600 pessoas que estavam de fora, e os números ficam mais próximos da realidade. A busca e a ficha do beneficiário não mudam.",
   "url": "https://github.com/knoxviana/ecosistema_aura/releases",
   "historico": [
+    {
+      "versao": "0.9.71",
+      "publicada_em": "2026-09-30",
+      "nota": "Cadastro de beneficiários mais completo: quem tem mais de uma matrícula (por exemplo, plano médico e plano odontológico) passava a ter só uma delas no AURA, e às vezes justamente a do odonto. Agora o sistema guarda todas as matrículas. Com isso, os indicadores da Frente IDSS passam a contar cerca de 1.600 pessoas que estavam de fora, e os números ficam mais próximos da realidade. A busca e a ficha do beneficiário não mudam."
+    },
     {
       "versao": "0.9.70",
       "publicada_em": "2026-09-29",
