@@ -1,9 +1,14 @@
 {
-  "versao": "0.9.75",
+  "versao": "0.9.76",
   "publicada_em": "2026-09-30",
-  "nota": "Frente IDSS mais completa e mais limpa: agora aparecem as quatro dimensões do IDSS com a nota oficial da ANS da operadora, cada uma fechada num menu que abre ao clicar — as duas de cuidado (qualidade e acesso) abrem indicador a indicador. E entrou o acompanhamento do câncer de mama: quantas mulheres de 50 a 74 anos fizeram mamografia nos últimos 2 anos, quantas faltam para a meta de 70% e a lista de quem precisa ser chamada.",
+  "nota": "Carências voltam a aparecer para quem entrou no plano recentemente: a ficha do beneficiário mostrava 'Carências indisponíveis' para quem aderiu depois da última atualização de um cadastro auxiliar. Agora a carência é buscada no mesmo cadastro que a ficha já usa, atualizado todo dia. Quando a pessoa não tem carência, a ficha passa a dizer claramente 'Nenhuma carência registrada no sistema da operadora'.",
   "url": "https://github.com/knoxviana/ecosistema_aura/releases",
   "historico": [
+    {
+      "versao": "0.9.76",
+      "publicada_em": "2026-09-30",
+      "nota": "Carências voltam a aparecer para quem entrou no plano recentemente: a ficha do beneficiário mostrava 'Carências indisponíveis' para quem aderiu depois da última atualização de um cadastro auxiliar. Agora a carência é buscada no mesmo cadastro que a ficha já usa, atualizado todo dia. Quando a pessoa não tem carência, a ficha passa a dizer claramente 'Nenhuma carência registrada no sistema da operadora'."
+    },
     {
       "versao": "0.9.75",
       "publicada_em": "2026-09-30",
