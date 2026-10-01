@@ -1,9 +1,14 @@
 {
-  "versao": "0.9.79",
+  "versao": "0.9.80",
   "publicada_em": "2026-10-01",
-  "nota": "O painel de Indicadores ANS agora abre na hora: ele fica pronto antes de alguém pedir (é preparado quando o sistema sobe e sempre que as contas médicas são atualizadas), em vez de ser calculado no momento em que a tela é aberta, o que podia levar quase um minuto.",
+  "nota": "Quatro melhorias: o menu lateral agora fica parado enquanto você rola a tela (só o conteúdo se move); o cadastro usado no atendimento passa a ser atualizado todo dia a partir do sistema da operadora, então quem entrou no plano recentemente já aparece para o atendimento e para o Radar; as listas de quem chamar nos Indicadores ANS mostram quem é mais fácil de converter (por exemplo, quem só falta uma consulta) e já vêm ordenadas assim; e o modelo de risco do Radar deixa de se perder a cada atualização do sistema.",
   "url": "https://github.com/knoxviana/ecosistema_aura/releases",
   "historico": [
+    {
+      "versao": "0.9.80",
+      "publicada_em": "2026-10-01",
+      "nota": "Quatro melhorias: o menu lateral agora fica parado enquanto você rola a tela (só o conteúdo se move); o cadastro usado no atendimento passa a ser atualizado todo dia a partir do sistema da operadora, então quem entrou no plano recentemente já aparece para o atendimento e para o Radar; as listas de quem chamar nos Indicadores ANS mostram quem é mais fácil de converter (por exemplo, quem só falta uma consulta) e já vêm ordenadas assim; e o modelo de risco do Radar deixa de se perder a cada atualização do sistema."
+    },
     {
       "versao": "0.9.79",
       "publicada_em": "2026-10-01",
