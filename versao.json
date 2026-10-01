@@ -1,9 +1,14 @@
 {
-  "versao": "0.9.81",
+  "versao": "0.9.82",
   "publicada_em": "2026-10-01",
-  "nota": "A ficha do beneficiário ganhou o quadro 'Cuidados e IDSS': mostra, só com o que vale para aquela pessoa, como ela está nos cuidados que contam para a nota da ANS e na mamografia — por exemplo, se fez o preventivo este ano, quantas consultas com clínico geral ainda faltam, se precisa repetir o exame de diabetes — e destaca em vermelho os casos que pedem atenção, como diabético que parou o acompanhamento. Aparece para quem tem acesso aos Indicadores ANS.",
+  "nota": "O painel de Indicadores ANS ficou clicável: clique em qualquer pedaço (em dia, a um passo, longe) para abrir a lista dessas pessoas, com contato e planilha para baixar. Entrou também o quadro dos idosos que cruza consultas com clínico geral e com especialista — mostra, por exemplo, quantos idosos foram ao especialista e nunca ao clínico, que é o público mais fácil para a campanha — e quantas consultas com clínico faltam para bater a meta da ANS.",
   "url": "https://github.com/knoxviana/ecosistema_aura/releases",
   "historico": [
+    {
+      "versao": "0.9.82",
+      "publicada_em": "2026-10-01",
+      "nota": "O painel de Indicadores ANS ficou clicável: clique em qualquer pedaço (em dia, a um passo, longe) para abrir a lista dessas pessoas, com contato e planilha para baixar. Entrou também o quadro dos idosos que cruza consultas com clínico geral e com especialista — mostra, por exemplo, quantos idosos foram ao especialista e nunca ao clínico, que é o público mais fácil para a campanha — e quantas consultas com clínico faltam para bater a meta da ANS."
+    },
     {
       "versao": "0.9.81",
       "publicada_em": "2026-10-01",
