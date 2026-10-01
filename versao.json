@@ -1,9 +1,14 @@
 {
-  "versao": "0.9.78",
+  "versao": "0.9.79",
   "publicada_em": "2026-10-01",
-  "nota": "Indicadores ANS ganhou um painel do ano: para cada indicador (preventivo do colo do útero, hemoglobina glicada, consultas dos idosos e mamografia) mostra quantas pessoas já estão em dia, quantas estão a um passo de converter e quantas estão longe, se o ritmo do ano vai bater a meta e como estávamos no mesmo ponto do ano passado. Logo abaixo, em vermelho, os casos críticos para cuidado — como diabéticos que faziam acompanhamento e pararam, idosos de 75 anos ou mais sem nenhuma consulta no ano e mulheres há mais de 3 anos sem preventivo ou mamografia — com a lista de nomes e contatos para a equipe agir.",
+  "nota": "O painel de Indicadores ANS agora abre na hora: ele fica pronto antes de alguém pedir (é preparado quando o sistema sobe e sempre que as contas médicas são atualizadas), em vez de ser calculado no momento em que a tela é aberta, o que podia levar quase um minuto.",
   "url": "https://github.com/knoxviana/ecosistema_aura/releases",
   "historico": [
+    {
+      "versao": "0.9.79",
+      "publicada_em": "2026-10-01",
+      "nota": "O painel de Indicadores ANS agora abre na hora: ele fica pronto antes de alguém pedir (é preparado quando o sistema sobe e sempre que as contas médicas são atualizadas), em vez de ser calculado no momento em que a tela é aberta, o que podia levar quase um minuto."
+    },
     {
       "versao": "0.9.78",
       "publicada_em": "2026-10-01",
