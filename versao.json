@@ -1,9 +1,14 @@
 {
-  "versao": "0.9.82",
+  "versao": "0.9.83",
   "publicada_em": "2026-10-01",
-  "nota": "O painel de Indicadores ANS ficou clicável: clique em qualquer pedaço (em dia, a um passo, longe) para abrir a lista dessas pessoas, com contato e planilha para baixar. Entrou também o quadro dos idosos que cruza consultas com clínico geral e com especialista — mostra, por exemplo, quantos idosos foram ao especialista e nunca ao clínico, que é o público mais fácil para a campanha — e quantas consultas com clínico faltam para bater a meta da ANS.",
+  "nota": "Acabamento: os cartões do painel de Indicadores ANS agora ficam alinhados lado a lado, com títulos, números e barras na mesma altura. E revisamos os textos de todo o sistema para uma escrita mais natural, trocando o travessão por pontuação comum (dois-pontos, vírgula, parênteses ou ponto).",
   "url": "https://github.com/knoxviana/ecosistema_aura/releases",
   "historico": [
+    {
+      "versao": "0.9.83",
+      "publicada_em": "2026-10-01",
+      "nota": "Acabamento: os cartões do painel de Indicadores ANS agora ficam alinhados lado a lado, com títulos, números e barras na mesma altura. E revisamos os textos de todo o sistema para uma escrita mais natural, trocando o travessão por pontuação comum (dois-pontos, vírgula, parênteses ou ponto)."
+    },
     {
       "versao": "0.9.82",
       "publicada_em": "2026-10-01",
