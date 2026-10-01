@@ -1,9 +1,14 @@
 {
-  "versao": "0.9.77",
-  "publicada_em": "2026-09-30",
-  "nota": "O IDSS ganhou menu próprio: 'Indicadores ANS', na seção Análises (antes ficava dentro da Contabilidade). Lá estão a nota da operadora comparada ao mercado, a Frente IDSS e o acompanhamento do câncer de mama. A Frente agora abre no ano corrente e usa as regras da ANS válidas para este ano — por exemplo, o teste de HPV passou a contar no preventivo do colo do útero —, mostrando quem ainda não fez o exame em 2026 para ser chamado. Quem tinha acesso à Contabilidade continua vendo o IDSS no menu novo.",
+  "versao": "0.9.78",
+  "publicada_em": "2026-10-01",
+  "nota": "Indicadores ANS ganhou um painel do ano: para cada indicador (preventivo do colo do útero, hemoglobina glicada, consultas dos idosos e mamografia) mostra quantas pessoas já estão em dia, quantas estão a um passo de converter e quantas estão longe, se o ritmo do ano vai bater a meta e como estávamos no mesmo ponto do ano passado. Logo abaixo, em vermelho, os casos críticos para cuidado — como diabéticos que faziam acompanhamento e pararam, idosos de 75 anos ou mais sem nenhuma consulta no ano e mulheres há mais de 3 anos sem preventivo ou mamografia — com a lista de nomes e contatos para a equipe agir.",
   "url": "https://github.com/knoxviana/ecosistema_aura/releases",
   "historico": [
+    {
+      "versao": "0.9.78",
+      "publicada_em": "2026-10-01",
+      "nota": "Indicadores ANS ganhou um painel do ano: para cada indicador (preventivo do colo do útero, hemoglobina glicada, consultas dos idosos e mamografia) mostra quantas pessoas já estão em dia, quantas estão a um passo de converter e quantas estão longe, se o ritmo do ano vai bater a meta e como estávamos no mesmo ponto do ano passado. Logo abaixo, em vermelho, os casos críticos para cuidado — como diabéticos que faziam acompanhamento e pararam, idosos de 75 anos ou mais sem nenhuma consulta no ano e mulheres há mais de 3 anos sem preventivo ou mamografia — com a lista de nomes e contatos para a equipe agir."
+    },
     {
       "versao": "0.9.77",
       "publicada_em": "2026-09-30",
