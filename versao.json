@@ -1,9 +1,14 @@
 {
-  "versao": "0.9.80",
+  "versao": "0.9.81",
   "publicada_em": "2026-10-01",
-  "nota": "Quatro melhorias: o menu lateral agora fica parado enquanto você rola a tela (só o conteúdo se move); o cadastro usado no atendimento passa a ser atualizado todo dia a partir do sistema da operadora, então quem entrou no plano recentemente já aparece para o atendimento e para o Radar; as listas de quem chamar nos Indicadores ANS mostram quem é mais fácil de converter (por exemplo, quem só falta uma consulta) e já vêm ordenadas assim; e o modelo de risco do Radar deixa de se perder a cada atualização do sistema.",
+  "nota": "A ficha do beneficiário ganhou o quadro 'Cuidados e IDSS': mostra, só com o que vale para aquela pessoa, como ela está nos cuidados que contam para a nota da ANS e na mamografia — por exemplo, se fez o preventivo este ano, quantas consultas com clínico geral ainda faltam, se precisa repetir o exame de diabetes — e destaca em vermelho os casos que pedem atenção, como diabético que parou o acompanhamento. Aparece para quem tem acesso aos Indicadores ANS.",
   "url": "https://github.com/knoxviana/ecosistema_aura/releases",
   "historico": [
+    {
+      "versao": "0.9.81",
+      "publicada_em": "2026-10-01",
+      "nota": "A ficha do beneficiário ganhou o quadro 'Cuidados e IDSS': mostra, só com o que vale para aquela pessoa, como ela está nos cuidados que contam para a nota da ANS e na mamografia — por exemplo, se fez o preventivo este ano, quantas consultas com clínico geral ainda faltam, se precisa repetir o exame de diabetes — e destaca em vermelho os casos que pedem atenção, como diabético que parou o acompanhamento. Aparece para quem tem acesso aos Indicadores ANS."
+    },
     {
       "versao": "0.9.80",
       "publicada_em": "2026-10-01",
