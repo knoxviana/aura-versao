@@ -1,9 +1,14 @@
 {
-  "versao": "0.9.83",
-  "publicada_em": "2026-10-01",
-  "nota": "Acabamento: os cartões do painel de Indicadores ANS agora ficam alinhados lado a lado, com títulos, números e barras na mesma altura. E revisamos os textos de todo o sistema para uma escrita mais natural, trocando o travessão por pontuação comum (dois-pontos, vírgula, parênteses ou ponto).",
+  "versao": "0.9.84",
+  "publicada_em": "2026-10-02",
+  "nota": "Resultado por Plano: abertura por grupo de conta, Ressarcimento ao SUS em Pré/Pós e explicação do administrativo. Demonstrações Contábeis: plano de contas completo até 9 dígitos.",
   "url": "https://github.com/knoxviana/ecosistema_aura/releases",
   "historico": [
+    {
+      "versao": "0.9.84",
+      "publicada_em": "2026-10-02",
+      "nota": "Resultado por Plano: abertura por grupo de conta, Ressarcimento ao SUS em Pré/Pós e explicação do administrativo. Demonstrações Contábeis: plano de contas completo até 9 dígitos."
+    },
     {
       "versao": "0.9.83",
       "publicada_em": "2026-10-01",
