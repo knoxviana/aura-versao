@@ -1,9 +1,14 @@
 {
-  "versao": "0.9.85",
+  "versao": "0.9.86",
   "publicada_em": "2026-10-02",
-  "nota": "Resultado por Plano: Despesas Médica/Odontológica Pré e Pós passam a ser só as contas 4.1.1.1 (pré 4.1.1.1.x.1, pós 4.1.1.1.x.2). Captation, Rede indireta, Reembolso e Ressarcimento ao SUS ganham linhas próprias, cada uma em pré e pós. Totais não mudam.",
+  "nota": "Resultado por Plano: Captation, Rede indireta, Reembolso e Ressarcimento ao SUS abrem em Médica Pré/Pós e Odontológica Pré/Pós, como no plano de contas da ANS. A tabela do painel abre só os dois primeiros níveis (botões Expandir tudo / Recolher).",
   "url": "https://github.com/knoxviana/ecosistema_aura/releases",
   "historico": [
+    {
+      "versao": "0.9.86",
+      "publicada_em": "2026-10-02",
+      "nota": "Resultado por Plano: Captation, Rede indireta, Reembolso e Ressarcimento ao SUS abrem em Médica Pré/Pós e Odontológica Pré/Pós, como no plano de contas da ANS. A tabela do painel abre só os dois primeiros níveis (botões Expandir tudo / Recolher)."
+    },
     {
       "versao": "0.9.85",
       "publicada_em": "2026-10-02",
