@@ -1,9 +1,14 @@
 {
-  "versao": "0.9.84",
+  "versao": "0.9.85",
   "publicada_em": "2026-10-02",
-  "nota": "Resultado por Plano: abertura por grupo de conta, Ressarcimento ao SUS em Pré/Pós e explicação do administrativo. Demonstrações Contábeis: plano de contas completo até 9 dígitos.",
+  "nota": "Resultado por Plano: Despesas Médica/Odontológica Pré e Pós passam a ser só as contas 4.1.1.1 (pré 4.1.1.1.x.1, pós 4.1.1.1.x.2). Captation, Rede indireta, Reembolso e Ressarcimento ao SUS ganham linhas próprias, cada uma em pré e pós. Totais não mudam.",
   "url": "https://github.com/knoxviana/ecosistema_aura/releases",
   "historico": [
+    {
+      "versao": "0.9.85",
+      "publicada_em": "2026-10-02",
+      "nota": "Resultado por Plano: Despesas Médica/Odontológica Pré e Pós passam a ser só as contas 4.1.1.1 (pré 4.1.1.1.x.1, pós 4.1.1.1.x.2). Captation, Rede indireta, Reembolso e Ressarcimento ao SUS ganham linhas próprias, cada uma em pré e pós. Totais não mudam."
+    },
     {
       "versao": "0.9.84",
       "publicada_em": "2026-10-02",
