@@ -1,9 +1,14 @@
 {
-  "versao": "0.9.87",
+  "versao": "0.9.88",
   "publicada_em": "2026-10-04",
-  "nota": "Sistemas plugados (ADR 0016): em Administração › Sistemas plugados, cole o endereço de um sistema com tela própria e ele entra no menu em Serviços, com login, liberação, travamento, congelamento e níveis definidos só pelo AURA.",
+  "nota": "Sistemas plugados abrem dentro do AURA pelo próprio domínio, como o Brasíndice (Autorizações Unimed em /modulo-unimed). Campo 'Endereço no navegador' em Administração › Sistemas plugados.",
   "url": "https://github.com/knoxviana/ecosistema_aura/releases",
   "historico": [
+    {
+      "versao": "0.9.88",
+      "publicada_em": "2026-10-04",
+      "nota": "Sistemas plugados abrem dentro do AURA pelo próprio domínio, como o Brasíndice (Autorizações Unimed em /modulo-unimed). Campo 'Endereço no navegador' em Administração › Sistemas plugados."
+    },
     {
       "versao": "0.9.87",
       "publicada_em": "2026-10-04",
