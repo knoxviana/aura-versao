@@ -1,9 +1,14 @@
 {
-  "versao": "0.9.86",
-  "publicada_em": "2026-10-02",
-  "nota": "Resultado por Plano: Captation, Rede indireta, Reembolso e Ressarcimento ao SUS abrem em Médica Pré/Pós e Odontológica Pré/Pós, como no plano de contas da ANS. A tabela do painel abre só os dois primeiros níveis (botões Expandir tudo / Recolher).",
+  "versao": "0.9.87",
+  "publicada_em": "2026-10-04",
+  "nota": "Sistemas plugados (ADR 0016): em Administração › Sistemas plugados, cole o endereço de um sistema com tela própria e ele entra no menu em Serviços, com login, liberação, travamento, congelamento e níveis definidos só pelo AURA.",
   "url": "https://github.com/knoxviana/ecosistema_aura/releases",
   "historico": [
+    {
+      "versao": "0.9.87",
+      "publicada_em": "2026-10-04",
+      "nota": "Sistemas plugados (ADR 0016): em Administração › Sistemas plugados, cole o endereço de um sistema com tela própria e ele entra no menu em Serviços, com login, liberação, travamento, congelamento e níveis definidos só pelo AURA."
+    },
     {
       "versao": "0.9.86",
       "publicada_em": "2026-10-02",
