@@ -1,9 +1,14 @@
 {
-  "versao": "0.9.88",
+  "versao": "0.9.89",
   "publicada_em": "2026-10-04",
-  "nota": "Sistemas plugados abrem dentro do AURA pelo próprio domínio, como o Brasíndice (Autorizações Unimed em /modulo-unimed). Campo 'Endereço no navegador' em Administração › Sistemas plugados.",
+  "nota": "Sistemas plugados dentro do AURA ocupam a área inteira, sem botão de abrir em nova aba (como o Brasíndice).",
   "url": "https://github.com/knoxviana/ecosistema_aura/releases",
   "historico": [
+    {
+      "versao": "0.9.89",
+      "publicada_em": "2026-10-04",
+      "nota": "Sistemas plugados dentro do AURA ocupam a área inteira, sem botão de abrir em nova aba (como o Brasíndice)."
+    },
     {
       "versao": "0.9.88",
       "publicada_em": "2026-10-04",
