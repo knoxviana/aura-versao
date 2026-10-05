@@ -1,9 +1,14 @@
 {
-  "versao": "0.9.91",
+  "versao": "0.9.92",
   "publicada_em": "2026-10-05",
-  "nota": "Resultado por Plano: Despesas Operacionais no desenho do plano de contas da ANS. Eventos por procedimento, Captation, Rede indireta, Reembolso e Ressarcimento SUS abrem igual: Médica/Odontológica Pré/Pós e, em cada uma, eventos, glosa, coparticipação e recuperação. Totais não mudam.",
+  "nota": "Resultado por Plano: Acumulado sem lançamentos falsamente 'fora do modelo' (redutoras e reversões odontológicas no regime certo) e sem a linha repetida do balancete; Outras Despesas Operacionais abertas no plano de contas da ANS.",
   "url": "https://github.com/knoxviana/ecosistema_aura/releases",
   "historico": [
+    {
+      "versao": "0.9.92",
+      "publicada_em": "2026-10-05",
+      "nota": "Resultado por Plano: Acumulado sem lançamentos falsamente 'fora do modelo' (redutoras e reversões odontológicas no regime certo) e sem a linha repetida do balancete; Outras Despesas Operacionais abertas no plano de contas da ANS."
+    },
     {
       "versao": "0.9.91",
       "publicada_em": "2026-10-05",
