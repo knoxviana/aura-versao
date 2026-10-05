@@ -1,9 +1,14 @@
 {
-  "versao": "0.9.90",
+  "versao": "0.9.91",
   "publicada_em": "2026-10-05",
-  "nota": "Correção para bancos com auditoria automática (produção): a atualização cria as tabelas novas sem conflito e mantém a auditoria em todas elas.",
+  "nota": "Resultado por Plano: Despesas Operacionais no desenho do plano de contas da ANS. Eventos por procedimento, Captation, Rede indireta, Reembolso e Ressarcimento SUS abrem igual: Médica/Odontológica Pré/Pós e, em cada uma, eventos, glosa, coparticipação e recuperação. Totais não mudam.",
   "url": "https://github.com/knoxviana/ecosistema_aura/releases",
   "historico": [
+    {
+      "versao": "0.9.91",
+      "publicada_em": "2026-10-05",
+      "nota": "Resultado por Plano: Despesas Operacionais no desenho do plano de contas da ANS. Eventos por procedimento, Captation, Rede indireta, Reembolso e Ressarcimento SUS abrem igual: Médica/Odontológica Pré/Pós e, em cada uma, eventos, glosa, coparticipação e recuperação. Totais não mudam."
+    },
     {
       "versao": "0.9.90",
       "publicada_em": "2026-10-05",
