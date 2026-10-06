@@ -1,9 +1,14 @@
 {
-  "versao": "0.9.94",
+  "versao": "0.9.95",
   "publicada_em": "2026-10-06",
-  "nota": "Ficha do beneficiário: dependentes voltam a aparecer quando o titular tem plano médico e odonto e a cópia do cadastro guardou a matrícula do odonto (o vínculo no ERP estava certo).",
+  "nota": "Novo atendimento não trava quando não há categoria ou tipo para escolher (a tela escondia o campo e mesmo assim exigia).",
   "url": "https://github.com/knoxviana/ecosistema_aura/releases",
   "historico": [
+    {
+      "versao": "0.9.95",
+      "publicada_em": "2026-10-06",
+      "nota": "Novo atendimento não trava quando não há categoria ou tipo para escolher (a tela escondia o campo e mesmo assim exigia)."
+    },
     {
       "versao": "0.9.94",
       "publicada_em": "2026-10-06",
