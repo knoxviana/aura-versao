@@ -1,9 +1,14 @@
 {
-  "versao": "0.9.95",
+  "versao": "0.9.96",
   "publicada_em": "2026-10-06",
-  "nota": "Novo atendimento não trava quando não há categoria ou tipo para escolher (a tela escondia o campo e mesmo assim exigia).",
+  "nota": "Indicadores ANS: o painel dos 5 cards ganhou filtro por competência (mês de apresentação da conta) para conferir os números período a período com a crítica externa, comparando com as mesmas competências do ano anterior.",
   "url": "https://github.com/knoxviana/ecosistema_aura/releases",
   "historico": [
+    {
+      "versao": "0.9.96",
+      "publicada_em": "2026-10-06",
+      "nota": "Indicadores ANS: o painel dos 5 cards ganhou filtro por competência (mês de apresentação da conta) para conferir os números período a período com a crítica externa, comparando com as mesmas competências do ano anterior."
+    },
     {
       "versao": "0.9.95",
       "publicada_em": "2026-10-06",
