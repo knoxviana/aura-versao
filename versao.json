@@ -1,9 +1,14 @@
 {
-  "versao": "0.9.92",
-  "publicada_em": "2026-10-05",
-  "nota": "Resultado por Plano: Acumulado sem lançamentos falsamente 'fora do modelo' (redutoras e reversões odontológicas no regime certo) e sem a linha repetida do balancete; Outras Despesas Operacionais abertas no plano de contas da ANS.",
+  "versao": "0.9.93",
+  "publicada_em": "2026-10-06",
+  "nota": "Alertas de Cuidado no Radar: avisa o time quando o gasto acelera, quando há exame de investigação ou quando começa medicamento de alto custo, com aviso na ficha e acompanhamento. Escalonamento deixa de confundir cateter de quimioterapia com diálise. Sincronização de beneficiários não zera a base se a fonte vier vazia. Card de anomalias mostra 0 em vez de null.",
   "url": "https://github.com/knoxviana/ecosistema_aura/releases",
   "historico": [
+    {
+      "versao": "0.9.93",
+      "publicada_em": "2026-10-06",
+      "nota": "Alertas de Cuidado no Radar: avisa o time quando o gasto acelera, quando há exame de investigação ou quando começa medicamento de alto custo, com aviso na ficha e acompanhamento. Escalonamento deixa de confundir cateter de quimioterapia com diálise. Sincronização de beneficiários não zera a base se a fonte vier vazia. Card de anomalias mostra 0 em vez de null."
+    },
     {
       "versao": "0.9.92",
       "publicada_em": "2026-10-05",
