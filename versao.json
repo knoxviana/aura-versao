@@ -1,9 +1,14 @@
 {
-  "versao": "0.9.96",
-  "publicada_em": "2026-10-06",
-  "nota": "Indicadores ANS: o painel dos 5 cards ganhou filtro por competência (mês de apresentação da conta) para conferir os números período a período com a crítica externa, comparando com as mesmas competências do ano anterior.",
+  "versao": "0.9.97",
+  "publicada_em": "2026-10-07",
+  "nota": "Adoção do App volta: o dashboard de uso do app do beneficiário entra no produto (antes só existia no build antigo da produção). Liga com ADOCAO_APP_DATABASE; acesso pelo módulo, de fábrica para administrador, gerente e coordenador.",
   "url": "https://github.com/knoxviana/ecosistema_aura/releases",
   "historico": [
+    {
+      "versao": "0.9.97",
+      "publicada_em": "2026-10-07",
+      "nota": "Adoção do App volta: o dashboard de uso do app do beneficiário entra no produto (antes só existia no build antigo da produção). Liga com ADOCAO_APP_DATABASE; acesso pelo módulo, de fábrica para administrador, gerente e coordenador."
+    },
     {
       "versao": "0.9.96",
       "publicada_em": "2026-10-06",
