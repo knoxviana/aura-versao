@@ -1,9 +1,14 @@
 {
-  "versao": "0.9.98",
+  "versao": "0.9.99",
   "publicada_em": "2026-10-07",
-  "nota": "Adoção do App: o banco do app pode ficar em outro servidor (endereço completo em ADOCAO_APP_DATABASE), para o DEV ler o app real com um usuário só de leitura.",
+  "nota": "Resultado por Plano: comparar redes por procedimento (rede direta x intercâmbio ou prestador x prestador), com a classificação dos prestadores lida do cadastro do ERP e a regra da operadora editável na tela.",
   "url": "https://github.com/knoxviana/ecosistema_aura/releases",
   "historico": [
+    {
+      "versao": "0.9.99",
+      "publicada_em": "2026-10-07",
+      "nota": "Resultado por Plano: comparar redes por procedimento (rede direta x intercâmbio ou prestador x prestador), com a classificação dos prestadores lida do cadastro do ERP e a regra da operadora editável na tela."
+    },
     {
       "versao": "0.9.98",
       "publicada_em": "2026-10-07",
