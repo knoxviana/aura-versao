@@ -1,9 +1,14 @@
 {
-  "versao": "0.9.101",
+  "versao": "0.9.102",
   "publicada_em": "2026-10-07",
-  "nota": "Internações: montagem em segundos (antes podia levar horas) e cobertura por rede com aviso quando desigual. Rede e preços: exemplo do passo a passo usa o procedimento de maior valor.",
+  "nota": "Ficha do beneficiário: quadro Uso da rede (rede própria x Unimed nos últimos 12 meses, e o que dá para fazer na rede própria). Internações: período sugerido começa na primeira internação montada.",
   "url": "https://github.com/knoxviana/ecosistema_aura/releases",
   "historico": [
+    {
+      "versao": "0.9.102",
+      "publicada_em": "2026-10-07",
+      "nota": "Ficha do beneficiário: quadro Uso da rede (rede própria x Unimed nos últimos 12 meses, e o que dá para fazer na rede própria). Internações: período sugerido começa na primeira internação montada."
+    },
     {
       "versao": "0.9.101",
       "publicada_em": "2026-10-07",
