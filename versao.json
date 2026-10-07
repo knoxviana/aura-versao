@@ -1,9 +1,14 @@
 {
-  "versao": "0.9.97",
+  "versao": "0.9.98",
   "publicada_em": "2026-10-07",
-  "nota": "Adoção do App volta: o dashboard de uso do app do beneficiário entra no produto (antes só existia no build antigo da produção). Liga com ADOCAO_APP_DATABASE; acesso pelo módulo, de fábrica para administrador, gerente e coordenador.",
+  "nota": "Adoção do App: o banco do app pode ficar em outro servidor (endereço completo em ADOCAO_APP_DATABASE), para o DEV ler o app real com um usuário só de leitura.",
   "url": "https://github.com/knoxviana/ecosistema_aura/releases",
   "historico": [
+    {
+      "versao": "0.9.98",
+      "publicada_em": "2026-10-07",
+      "nota": "Adoção do App: o banco do app pode ficar em outro servidor (endereço completo em ADOCAO_APP_DATABASE), para o DEV ler o app real com um usuário só de leitura."
+    },
     {
       "versao": "0.9.97",
       "publicada_em": "2026-10-07",
