@@ -1,9 +1,14 @@
 {
-  "versao": "0.9.99",
+  "versao": "0.9.100",
   "publicada_em": "2026-10-07",
-  "nota": "Resultado por Plano: comparar redes por procedimento (rede direta x intercâmbio ou prestador x prestador), com a classificação dos prestadores lida do cadastro do ERP e a regra da operadora editável na tela.",
+  "nota": "Inteligência de Custo: nova área com Rede e preços (gráficos, rede indireta inteira, passo a passo do cálculo) e Internações (custo da conta inteira por rede, mesma cirurgia contra mesma cirurgia, pela mediana). O sync passa a copiar o número da guia.",
   "url": "https://github.com/knoxviana/ecosistema_aura/releases",
   "historico": [
+    {
+      "versao": "0.9.100",
+      "publicada_em": "2026-10-07",
+      "nota": "Inteligência de Custo: nova área com Rede e preços (gráficos, rede indireta inteira, passo a passo do cálculo) e Internações (custo da conta inteira por rede, mesma cirurgia contra mesma cirurgia, pela mediana). O sync passa a copiar o número da guia."
+    },
     {
       "versao": "0.9.99",
       "publicada_em": "2026-10-07",
