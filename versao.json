@@ -1,9 +1,14 @@
 {
-  "versao": "0.9.102",
+  "versao": "0.9.103",
   "publicada_em": "2026-10-07",
-  "nota": "Ficha do beneficiário: quadro Uso da rede (rede própria x Unimed nos últimos 12 meses, e o que dá para fazer na rede própria). Internações: período sugerido começa na primeira internação montada.",
+  "nota": "Internações: conta possivelmente incompleta marcada em amarelo, com detalhe e painel de pontos para esclarecer com o operador (valores não mudam). Composição da conta corrigida (prótese não conta mais como procedimento). Uso da rede: farmácia e odonto à parte, consulta só da mesma especialidade.",
   "url": "https://github.com/knoxviana/ecosistema_aura/releases",
   "historico": [
+    {
+      "versao": "0.9.103",
+      "publicada_em": "2026-10-07",
+      "nota": "Internações: conta possivelmente incompleta marcada em amarelo, com detalhe e painel de pontos para esclarecer com o operador (valores não mudam). Composição da conta corrigida (prótese não conta mais como procedimento). Uso da rede: farmácia e odonto à parte, consulta só da mesma especialidade."
+    },
     {
       "versao": "0.9.102",
       "publicada_em": "2026-10-07",
