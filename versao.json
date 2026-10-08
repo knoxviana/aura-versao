@@ -1,9 +1,14 @@
 {
-  "versao": "0.9.106",
+  "versao": "0.9.107",
   "publicada_em": "2026-10-08",
-  "nota": "Sala ao vivo: horário de Brasília em qualquer tela e reprise contínua.",
+  "nota": "Sala ao vivo: curva por hora sem esticar.",
   "url": "https://github.com/knoxviana/ecosistema_aura/releases",
   "historico": [
+    {
+      "versao": "0.9.107",
+      "publicada_em": "2026-10-08",
+      "nota": "Sala ao vivo: curva por hora sem esticar."
+    },
     {
       "versao": "0.9.106",
       "publicada_em": "2026-10-08",
