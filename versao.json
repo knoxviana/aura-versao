@@ -1,9 +1,14 @@
 {
-  "versao": "0.9.107",
+  "versao": "0.9.108",
   "publicada_em": "2026-10-08",
-  "nota": "Sala ao vivo: curva por hora sem esticar.",
+  "nota": "Sala ao vivo: faixa central com altura fixa na tela.",
   "url": "https://github.com/knoxviana/ecosistema_aura/releases",
   "historico": [
+    {
+      "versao": "0.9.108",
+      "publicada_em": "2026-10-08",
+      "nota": "Sala ao vivo: faixa central com altura fixa na tela."
+    },
     {
       "versao": "0.9.107",
       "publicada_em": "2026-10-08",
