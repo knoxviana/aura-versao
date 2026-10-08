@@ -1,9 +1,14 @@
 {
-  "versao": "0.9.103",
-  "publicada_em": "2026-10-07",
-  "nota": "Internações: conta possivelmente incompleta marcada em amarelo, com detalhe e painel de pontos para esclarecer com o operador (valores não mudam). Composição da conta corrigida (prótese não conta mais como procedimento). Uso da rede: farmácia e odonto à parte, consulta só da mesma especialidade.",
+  "versao": "0.9.104",
+  "publicada_em": "2026-10-08",
+  "nota": "Sala ao vivo: movimento do dia em tempo real (app, reembolsos, Kanban, WhatsApp, URA) com efeito visual, comparação com a média do dia da semana e reprise das últimas 24 h.",
   "url": "https://github.com/knoxviana/ecosistema_aura/releases",
   "historico": [
+    {
+      "versao": "0.9.104",
+      "publicada_em": "2026-10-08",
+      "nota": "Sala ao vivo: movimento do dia em tempo real (app, reembolsos, Kanban, WhatsApp, URA) com efeito visual, comparação com a média do dia da semana e reprise das últimas 24 h."
+    },
     {
       "versao": "0.9.103",
       "publicada_em": "2026-10-07",
