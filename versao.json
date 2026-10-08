@@ -1,9 +1,14 @@
 {
-  "versao": "0.9.105",
+  "versao": "0.9.106",
   "publicada_em": "2026-10-08",
-  "nota": "Sala ao vivo: a animação não para mais por erro de um quadro (a reprise ficava parada).",
+  "nota": "Sala ao vivo: horário de Brasília em qualquer tela e reprise contínua.",
   "url": "https://github.com/knoxviana/ecosistema_aura/releases",
   "historico": [
+    {
+      "versao": "0.9.106",
+      "publicada_em": "2026-10-08",
+      "nota": "Sala ao vivo: horário de Brasília em qualquer tela e reprise contínua."
+    },
     {
       "versao": "0.9.105",
       "publicada_em": "2026-10-08",
