@@ -1,9 +1,14 @@
 {
-  "versao": "0.9.104",
+  "versao": "0.9.105",
   "publicada_em": "2026-10-08",
-  "nota": "Sala ao vivo: movimento do dia em tempo real (app, reembolsos, Kanban, WhatsApp, URA) com efeito visual, comparação com a média do dia da semana e reprise das últimas 24 h.",
+  "nota": "Sala ao vivo: a animação não para mais por erro de um quadro (a reprise ficava parada).",
   "url": "https://github.com/knoxviana/ecosistema_aura/releases",
   "historico": [
+    {
+      "versao": "0.9.105",
+      "publicada_em": "2026-10-08",
+      "nota": "Sala ao vivo: a animação não para mais por erro de um quadro (a reprise ficava parada)."
+    },
     {
       "versao": "0.9.104",
       "publicada_em": "2026-10-08",
