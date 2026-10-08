@@ -1,9 +1,14 @@
 {
-  "versao": "0.9.108",
+  "versao": "0.9.109",
   "publicada_em": "2026-10-08",
-  "nota": "Sala ao vivo: faixa central com altura fixa na tela.",
+  "nota": "Produção · Reembolso: linha de produção das solicitações web de reembolso com placar, meta, faixas, semanas e visão do gestor (ranking e observações). Inteligência de Custo e Sala ao vivo com itens próprios na tela de permissões.",
   "url": "https://github.com/knoxviana/ecosistema_aura/releases",
   "historico": [
+    {
+      "versao": "0.9.109",
+      "publicada_em": "2026-10-08",
+      "nota": "Produção · Reembolso: linha de produção das solicitações web de reembolso com placar, meta, faixas, semanas e visão do gestor (ranking e observações). Inteligência de Custo e Sala ao vivo com itens próprios na tela de permissões."
+    },
     {
       "versao": "0.9.108",
       "publicada_em": "2026-10-08",
