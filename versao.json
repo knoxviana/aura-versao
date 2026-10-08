@@ -1,9 +1,14 @@
 {
-  "versao": "0.9.109",
+  "versao": "0.9.110",
   "publicada_em": "2026-10-08",
-  "nota": "Produção · Reembolso: linha de produção das solicitações web de reembolso com placar, meta, faixas, semanas e visão do gestor (ranking e observações). Inteligência de Custo e Sala ao vivo com itens próprios na tela de permissões.",
+  "nota": "Produção · Reembolso: visão comum sem nomes de quem trata (só o gestor vê); total real da fila.",
   "url": "https://github.com/knoxviana/ecosistema_aura/releases",
   "historico": [
+    {
+      "versao": "0.9.110",
+      "publicada_em": "2026-10-08",
+      "nota": "Produção · Reembolso: visão comum sem nomes de quem trata (só o gestor vê); total real da fila."
+    },
     {
       "versao": "0.9.109",
       "publicada_em": "2026-10-08",
