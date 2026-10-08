@@ -1,9 +1,14 @@
 {
-  "versao": "0.9.111",
+  "versao": "0.9.112",
   "publicada_em": "2026-10-08",
-  "nota": "Internações prorrogadas nos Alertas de Cuidado (tela própria com detalhe e acompanhamento). Produção · Reembolso: ranking por período até 12 meses, observações com tipo e ausências como contexto, nomes de quem trata para todos.",
+  "nota": "Alertas de Cuidado: corrige erro que derrubava a aba (cartão de internações prorrogadas).",
   "url": "https://github.com/knoxviana/ecosistema_aura/releases",
   "historico": [
+    {
+      "versao": "0.9.112",
+      "publicada_em": "2026-10-08",
+      "nota": "Alertas de Cuidado: corrige erro que derrubava a aba (cartão de internações prorrogadas)."
+    },
     {
       "versao": "0.9.111",
       "publicada_em": "2026-10-08",
