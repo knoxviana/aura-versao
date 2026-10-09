@@ -1,9 +1,14 @@
 {
-  "versao": "0.9.117",
+  "versao": "0.9.118",
   "publicada_em": "2026-10-09",
-  "nota": "Produção · Reembolso: painel do gestor com pedidos sem movimento por pessoa (período ajustável até 12 meses); coluna Tempo de espera; explicação em cada coluna.",
+  "nota": "Produção · Reembolso: competência do pagamento configurável no gestor (padrão 21 a 20) no ranking e nos pedidos parados; coluna e filtro de Plano na fila.",
   "url": "https://github.com/knoxviana/ecosistema_aura/releases",
   "historico": [
+    {
+      "versao": "0.9.118",
+      "publicada_em": "2026-10-09",
+      "nota": "Produção · Reembolso: competência do pagamento configurável no gestor (padrão 21 a 20) no ranking e nos pedidos parados; coluna e filtro de Plano na fila."
+    },
     {
       "versao": "0.9.117",
       "publicada_em": "2026-10-09",
