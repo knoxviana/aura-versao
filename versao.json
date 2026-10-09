@@ -1,9 +1,14 @@
 {
-  "versao": "0.9.116",
+  "versao": "0.9.117",
   "publicada_em": "2026-10-09",
-  "nota": "Internações prorrogadas: mostra até quando a última prorrogação cobre a internação (o ERP não registra alta), o motivo da internação e explica cada campo.",
+  "nota": "Produção · Reembolso: painel do gestor com pedidos sem movimento por pessoa (período ajustável até 12 meses); coluna Tempo de espera; explicação em cada coluna.",
   "url": "https://github.com/knoxviana/ecosistema_aura/releases",
   "historico": [
+    {
+      "versao": "0.9.117",
+      "publicada_em": "2026-10-09",
+      "nota": "Produção · Reembolso: painel do gestor com pedidos sem movimento por pessoa (período ajustável até 12 meses); coluna Tempo de espera; explicação em cada coluna."
+    },
     {
       "versao": "0.9.116",
       "publicada_em": "2026-10-09",
