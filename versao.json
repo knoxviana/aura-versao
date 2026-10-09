@@ -1,9 +1,14 @@
 {
-  "versao": "0.9.113",
-  "publicada_em": "2026-10-08",
-  "nota": "Reembolso em quadro visual (cor por atraso, resolvidas em verde, estoque da manhã). Sala ao vivo com autorizações e card de reembolso abrindo a linha de produção.",
+  "versao": "0.9.114",
+  "publicada_em": "2026-10-09",
+  "nota": "Produção · Reembolso: o anel do estoque da manhã conta só o que foi resolvido depois da foto do dia.",
   "url": "https://github.com/knoxviana/ecosistema_aura/releases",
   "historico": [
+    {
+      "versao": "0.9.114",
+      "publicada_em": "2026-10-09",
+      "nota": "Produção · Reembolso: o anel do estoque da manhã conta só o que foi resolvido depois da foto do dia."
+    },
     {
       "versao": "0.9.113",
       "publicada_em": "2026-10-08",
