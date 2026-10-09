@@ -1,9 +1,14 @@
 {
-  "versao": "0.9.115",
+  "versao": "0.9.116",
   "publicada_em": "2026-10-09",
-  "nota": "Produção · Reembolso volta a ser lista com cor do atraso por linha e barra de andamento; Internações prorrogadas lista as prorrogações sem guia mãe e mostra a conta já apresentada.",
+  "nota": "Internações prorrogadas: mostra até quando a última prorrogação cobre a internação (o ERP não registra alta), o motivo da internação e explica cada campo.",
   "url": "https://github.com/knoxviana/ecosistema_aura/releases",
   "historico": [
+    {
+      "versao": "0.9.116",
+      "publicada_em": "2026-10-09",
+      "nota": "Internações prorrogadas: mostra até quando a última prorrogação cobre a internação (o ERP não registra alta), o motivo da internação e explica cada campo."
+    },
     {
       "versao": "0.9.115",
       "publicada_em": "2026-10-09",
