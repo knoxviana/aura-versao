@@ -1,9 +1,14 @@
 {
-  "versao": "0.9.122",
+  "versao": "0.9.123",
   "publicada_em": "2026-10-13",
-  "nota": "Corrige a leitura automática das autorizações (9h e 13h) e das internações prorrogadas (10h), parada desde 08/10; o botão de internações da Sala ao vivo não some mais.",
+  "nota": "Internações prorrogadas: escolha de semana; com a semana atual vazia, abre a semana passada; o cartão nos Alertas aparece sempre.",
   "url": "https://github.com/knoxviana/ecosistema_aura/releases",
   "historico": [
+    {
+      "versao": "0.9.123",
+      "publicada_em": "2026-10-13",
+      "nota": "Internações prorrogadas: escolha de semana; com a semana atual vazia, abre a semana passada; o cartão nos Alertas aparece sempre."
+    },
     {
       "versao": "0.9.122",
       "publicada_em": "2026-10-13",
