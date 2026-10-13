@@ -1,9 +1,14 @@
 {
-  "versao": "0.9.120",
+  "versao": "0.9.121",
   "publicada_em": "2026-10-13",
-  "nota": "Rede e preços: compara o mesmo hospital pelos dois cartões (ELOSAÚDE e Unimed), usando o executante da conta no ERP.",
+  "nota": "Rede e preços: a lista do mesmo hospital mostra que está carregando.",
   "url": "https://github.com/knoxviana/ecosistema_aura/releases",
   "historico": [
+    {
+      "versao": "0.9.121",
+      "publicada_em": "2026-10-13",
+      "nota": "Rede e preços: a lista do mesmo hospital mostra que está carregando."
+    },
     {
       "versao": "0.9.120",
       "publicada_em": "2026-10-13",
