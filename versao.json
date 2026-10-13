@@ -1,9 +1,14 @@
 {
-  "versao": "0.9.123",
+  "versao": "0.9.124",
   "publicada_em": "2026-10-13",
-  "nota": "Internações prorrogadas: escolha de semana; com a semana atual vazia, abre a semana passada; o cartão nos Alertas aparece sempre.",
+  "nota": "Internações prorrogadas vira tela de consulta: período livre, busca, divisão por rede e histórico de 12 meses.",
   "url": "https://github.com/knoxviana/ecosistema_aura/releases",
   "historico": [
+    {
+      "versao": "0.9.124",
+      "publicada_em": "2026-10-13",
+      "nota": "Internações prorrogadas vira tela de consulta: período livre, busca, divisão por rede e histórico de 12 meses."
+    },
     {
       "versao": "0.9.123",
       "publicada_em": "2026-10-13",
