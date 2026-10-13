@@ -1,9 +1,14 @@
 {
-  "versao": "0.9.121",
+  "versao": "0.9.122",
   "publicada_em": "2026-10-13",
-  "nota": "Rede e preços: a lista do mesmo hospital mostra que está carregando.",
+  "nota": "Corrige a leitura automática das autorizações (9h e 13h) e das internações prorrogadas (10h), parada desde 08/10; o botão de internações da Sala ao vivo não some mais.",
   "url": "https://github.com/knoxviana/ecosistema_aura/releases",
   "historico": [
+    {
+      "versao": "0.9.122",
+      "publicada_em": "2026-10-13",
+      "nota": "Corrige a leitura automática das autorizações (9h e 13h) e das internações prorrogadas (10h), parada desde 08/10; o botão de internações da Sala ao vivo não some mais."
+    },
     {
       "versao": "0.9.121",
       "publicada_em": "2026-10-13",
