@@ -1,9 +1,14 @@
 {
-  "versao": "0.9.119",
+  "versao": "0.9.120",
   "publicada_em": "2026-10-13",
-  "nota": "Base dos fluxos: mover, transferir e finalizar card viram serviço (sem mudança para o usuário) e nasce o encaminhar (mesmo card para outro setor).",
+  "nota": "Rede e preços: compara o mesmo hospital pelos dois cartões (ELOSAÚDE e Unimed), usando o executante da conta no ERP.",
   "url": "https://github.com/knoxviana/ecosistema_aura/releases",
   "historico": [
+    {
+      "versao": "0.9.120",
+      "publicada_em": "2026-10-13",
+      "nota": "Rede e preços: compara o mesmo hospital pelos dois cartões (ELOSAÚDE e Unimed), usando o executante da conta no ERP."
+    },
     {
       "versao": "0.9.119",
       "publicada_em": "2026-10-13",
