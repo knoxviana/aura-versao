@@ -1,9 +1,14 @@
 {
-  "versao": "0.9.128",
+  "versao": "0.9.129",
   "publicada_em": "2026-10-14",
-  "nota": "Painel da Diretoria: colunas e PDF em 2 folhas",
+  "nota": "Painel da Diretoria: carimbo GNI - Inovação na faixa verde",
   "url": "https://github.com/knoxviana/ecosistema_aura/releases",
   "historico": [
+    {
+      "versao": "0.9.129",
+      "publicada_em": "2026-10-14",
+      "nota": "Painel da Diretoria: carimbo GNI - Inovação na faixa verde"
+    },
     {
       "versao": "0.9.128",
       "publicada_em": "2026-10-14",
