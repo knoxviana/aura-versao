@@ -1,9 +1,14 @@
 {
-  "versao": "0.9.131",
+  "versao": "0.9.132",
   "publicada_em": "2026-10-14",
-  "nota": "Rede e preços: data do atendimento, busca por nome/CNPJ, gráfico dos lados",
+  "nota": "Rede e preços: visão analítica de cada atendimento",
   "url": "https://github.com/knoxviana/ecosistema_aura/releases",
   "historico": [
+    {
+      "versao": "0.9.132",
+      "publicada_em": "2026-10-14",
+      "nota": "Rede e preços: visão analítica de cada atendimento"
+    },
     {
       "versao": "0.9.131",
       "publicada_em": "2026-10-14",
