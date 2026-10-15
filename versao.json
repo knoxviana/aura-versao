@@ -1,9 +1,14 @@
 {
-  "versao": "0.9.134",
+  "versao": "0.9.135",
   "publicada_em": "2026-10-15",
-  "nota": "Protocolo de atendimento no padrão ANS (RN 623/2024)",
+  "nota": "Rede e preços: busca única e filtros mais legíveis",
   "url": "https://github.com/knoxviana/ecosistema_aura/releases",
   "historico": [
+    {
+      "versao": "0.9.135",
+      "publicada_em": "2026-10-15",
+      "nota": "Rede e preços: busca única e filtros mais legíveis"
+    },
     {
       "versao": "0.9.134",
       "publicada_em": "2026-10-15",
