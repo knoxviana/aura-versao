@@ -1,9 +1,14 @@
 {
-  "versao": "0.9.133",
+  "versao": "0.9.134",
   "publicada_em": "2026-10-15",
-  "nota": "Rede e preços: simulador de reajuste por família e cenários",
+  "nota": "Protocolo de atendimento no padrão ANS (RN 623/2024)",
   "url": "https://github.com/knoxviana/ecosistema_aura/releases",
   "historico": [
+    {
+      "versao": "0.9.134",
+      "publicada_em": "2026-10-15",
+      "nota": "Protocolo de atendimento no padrão ANS (RN 623/2024)"
+    },
     {
       "versao": "0.9.133",
       "publicada_em": "2026-10-15",
