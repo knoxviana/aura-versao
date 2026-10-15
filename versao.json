@@ -1,9 +1,14 @@
 {
-  "versao": "0.9.132",
-  "publicada_em": "2026-10-14",
-  "nota": "Rede e preços: visão analítica de cada atendimento",
+  "versao": "0.9.133",
+  "publicada_em": "2026-10-15",
+  "nota": "Rede e preços: simulador de reajuste por família e cenários",
   "url": "https://github.com/knoxviana/ecosistema_aura/releases",
   "historico": [
+    {
+      "versao": "0.9.133",
+      "publicada_em": "2026-10-15",
+      "nota": "Rede e preços: simulador de reajuste por família e cenários"
+    },
     {
       "versao": "0.9.132",
       "publicada_em": "2026-10-14",
