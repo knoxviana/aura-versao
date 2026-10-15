@@ -1,9 +1,14 @@
 {
-  "versao": "0.9.135",
+  "versao": "0.9.136",
   "publicada_em": "2026-10-15",
-  "nota": "Rede e preços: busca única e filtros mais legíveis",
+  "nota": "Rede e preços: lista dos lados mais limpa",
   "url": "https://github.com/knoxviana/ecosistema_aura/releases",
   "historico": [
+    {
+      "versao": "0.9.136",
+      "publicada_em": "2026-10-15",
+      "nota": "Rede e preços: lista dos lados mais limpa"
+    },
     {
       "versao": "0.9.135",
       "publicada_em": "2026-10-15",
