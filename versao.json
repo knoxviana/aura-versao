@@ -1,9 +1,14 @@
 {
-  "versao": "0.9.138",
+  "versao": "0.9.139",
   "publicada_em": "2026-10-16",
-  "nota": "Painel da Diretoria: anotações acima do painel",
+  "nota": "Adoção do App: cadastros por período",
   "url": "https://github.com/knoxviana/ecosistema_aura/releases",
   "historico": [
+    {
+      "versao": "0.9.139",
+      "publicada_em": "2026-10-16",
+      "nota": "Adoção do App: cadastros por período"
+    },
     {
       "versao": "0.9.138",
       "publicada_em": "2026-10-16",
