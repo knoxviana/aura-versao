@@ -1,9 +1,14 @@
 {
-  "versao": "0.9.137",
+  "versao": "0.9.138",
   "publicada_em": "2026-10-16",
-  "nota": "Painel da Diretoria: anos corretos e anotações separadas do PDF",
+  "nota": "Painel da Diretoria: anotações acima do painel",
   "url": "https://github.com/knoxviana/ecosistema_aura/releases",
   "historico": [
+    {
+      "versao": "0.9.138",
+      "publicada_em": "2026-10-16",
+      "nota": "Painel da Diretoria: anotações acima do painel"
+    },
     {
       "versao": "0.9.137",
       "publicada_em": "2026-10-16",
