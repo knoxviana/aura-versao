@@ -1,9 +1,14 @@
 {
-  "versao": "0.9.147",
+  "versao": "0.9.148",
   "publicada_em": "2026-10-19",
-  "nota": "Saúde do ERP: mapa de processos não trava com retrato recém-gravado (estatística atualizada e teto de tempo).",
+  "nota": "Saúde do ERP: tela abre em cerca de 1 segundo (área de processo gravada por retrato).",
   "url": "https://github.com/knoxviana/ecosistema_aura/releases",
   "historico": [
+    {
+      "versao": "0.9.148",
+      "publicada_em": "2026-10-19",
+      "nota": "Saúde do ERP: tela abre em cerca de 1 segundo (área de processo gravada por retrato)."
+    },
     {
       "versao": "0.9.147",
       "publicada_em": "2026-10-19",
