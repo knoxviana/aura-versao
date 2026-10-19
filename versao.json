@@ -1,9 +1,14 @@
 {
-  "versao": "0.9.144",
+  "versao": "0.9.145",
   "publicada_em": "2026-10-19",
-  "nota": "Cadastro de usuário: e-mail preenchido pelo login no ERP para qualquer administrador (domínios corporativos da operadora).",
+  "nota": "Saúde do ERP: retratos do MV-SOUL, comparação simulação x produção e antes x depois, fila do operador com ficha de cada achado, ocorrências, linha do tempo, resultados para a gestão e mapa de processos.",
   "url": "https://github.com/knoxviana/ecosistema_aura/releases",
   "historico": [
+    {
+      "versao": "0.9.145",
+      "publicada_em": "2026-10-19",
+      "nota": "Saúde do ERP: retratos do MV-SOUL, comparação simulação x produção e antes x depois, fila do operador com ficha de cada achado, ocorrências, linha do tempo, resultados para a gestão e mapa de processos."
+    },
     {
       "versao": "0.9.144",
       "publicada_em": "2026-10-19",
