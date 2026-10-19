@@ -1,9 +1,14 @@
 {
-  "versao": "0.9.146",
+  "versao": "0.9.147",
   "publicada_em": "2026-10-19",
-  "nota": "Saúde do ERP: ajustes de texto da ficha (concordância e datas).",
+  "nota": "Saúde do ERP: mapa de processos não trava com retrato recém-gravado (estatística atualizada e teto de tempo).",
   "url": "https://github.com/knoxviana/ecosistema_aura/releases",
   "historico": [
+    {
+      "versao": "0.9.147",
+      "publicada_em": "2026-10-19",
+      "nota": "Saúde do ERP: mapa de processos não trava com retrato recém-gravado (estatística atualizada e teto de tempo)."
+    },
     {
       "versao": "0.9.146",
       "publicada_em": "2026-10-19",
