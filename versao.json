@@ -1,9 +1,14 @@
 {
-  "versao": "0.9.143",
+  "versao": "0.9.144",
   "publicada_em": "2026-10-19",
-  "nota": "Cadastro de usuário: permissões na estrutura do menu (Gestão de Projetos em Projetos e equipe); busca só da equipe da operadora, com e-mail preenchido pelo login no ERP e aviso de quem já tem acesso.",
+  "nota": "Cadastro de usuário: e-mail preenchido pelo login no ERP para qualquer administrador (domínios corporativos da operadora).",
   "url": "https://github.com/knoxviana/ecosistema_aura/releases",
   "historico": [
+    {
+      "versao": "0.9.144",
+      "publicada_em": "2026-10-19",
+      "nota": "Cadastro de usuário: e-mail preenchido pelo login no ERP para qualquer administrador (domínios corporativos da operadora)."
+    },
     {
       "versao": "0.9.143",
       "publicada_em": "2026-10-19",
