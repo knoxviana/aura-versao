@@ -1,9 +1,14 @@
 {
-  "versao": "0.9.148",
-  "publicada_em": "2026-10-19",
-  "nota": "Saúde do ERP: tela abre em cerca de 1 segundo (área de processo gravada por retrato).",
+  "versao": "0.9.149",
+  "publicada_em": "2026-10-20",
+  "nota": "Saúde do ERP: processos críticos por dia, uso das tabelas no mapa, avaliação de achados, dicionário de dados; item em Indicadores e IA.",
   "url": "https://github.com/knoxviana/ecosistema_aura/releases",
   "historico": [
+    {
+      "versao": "0.9.149",
+      "publicada_em": "2026-10-20",
+      "nota": "Saúde do ERP: processos críticos por dia, uso das tabelas no mapa, avaliação de achados, dicionário de dados; item em Indicadores e IA."
+    },
     {
       "versao": "0.9.148",
       "publicada_em": "2026-10-19",
