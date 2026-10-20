@@ -1,9 +1,14 @@
 {
-  "versao": "0.9.149",
+  "versao": "0.9.150",
   "publicada_em": "2026-10-20",
-  "nota": "Saúde do ERP: processos críticos por dia, uso das tabelas no mapa, avaliação de achados, dicionário de dados; item em Indicadores e IA.",
+  "nota": "Saúde do ERP: acabamentos (gráfico diário e dicionário).",
   "url": "https://github.com/knoxviana/ecosistema_aura/releases",
   "historico": [
+    {
+      "versao": "0.9.150",
+      "publicada_em": "2026-10-20",
+      "nota": "Saúde do ERP: acabamentos (gráfico diário e dicionário)."
+    },
     {
       "versao": "0.9.149",
       "publicada_em": "2026-10-20",
