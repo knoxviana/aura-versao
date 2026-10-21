@@ -1,9 +1,14 @@
 {
-  "versao": "0.9.150",
-  "publicada_em": "2026-10-20",
-  "nota": "Saúde do ERP: acabamentos (gráfico diário e dicionário).",
+  "versao": "0.9.151",
+  "publicada_em": "2026-10-21",
+  "nota": "Alerta de cuidado da ficha abre direto o alerta da pessoa no Radar",
   "url": "https://github.com/knoxviana/ecosistema_aura/releases",
   "historico": [
+    {
+      "versao": "0.9.151",
+      "publicada_em": "2026-10-21",
+      "nota": "Alerta de cuidado da ficha abre direto o alerta da pessoa no Radar"
+    },
     {
       "versao": "0.9.150",
       "publicada_em": "2026-10-20",
