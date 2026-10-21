@@ -1,9 +1,14 @@
 {
-  "versao": "0.9.151",
+  "versao": "0.9.152",
   "publicada_em": "2026-10-21",
-  "nota": "Alerta de cuidado da ficha abre direto o alerta da pessoa no Radar",
+  "nota": "Alertas de Cuidado: sinal Internado agora (guias de internacao com prorrogacao)",
   "url": "https://github.com/knoxviana/ecosistema_aura/releases",
   "historico": [
+    {
+      "versao": "0.9.152",
+      "publicada_em": "2026-10-21",
+      "nota": "Alertas de Cuidado: sinal Internado agora (guias de internacao com prorrogacao)"
+    },
     {
       "versao": "0.9.151",
       "publicada_em": "2026-10-21",
