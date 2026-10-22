@@ -1,9 +1,14 @@
 {
-  "versao": "0.9.155",
+  "versao": "0.9.156",
   "publicada_em": "2026-10-22",
-  "nota": "Estudo de Custo: reajuste indicativo por plano pre e periodo ciclo de reajuste",
+  "nota": "Estudo de Custo: grupo pequeno fora do pooling do reajuste indicativo",
   "url": "https://github.com/knoxviana/ecosistema_aura/releases",
   "historico": [
+    {
+      "versao": "0.9.156",
+      "publicada_em": "2026-10-22",
+      "nota": "Estudo de Custo: grupo pequeno fora do pooling do reajuste indicativo"
+    },
     {
       "versao": "0.9.155",
       "publicada_em": "2026-10-22",
