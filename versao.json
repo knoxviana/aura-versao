@@ -1,9 +1,14 @@
 {
-  "versao": "0.9.154",
+  "versao": "0.9.155",
   "publicada_em": "2026-10-22",
-  "nota": "Estudo de Custo: programa sugerido pelos grupos principais e cores dos anos",
+  "nota": "Estudo de Custo: reajuste indicativo por plano pre e periodo ciclo de reajuste",
   "url": "https://github.com/knoxviana/ecosistema_aura/releases",
   "historico": [
+    {
+      "versao": "0.9.155",
+      "publicada_em": "2026-10-22",
+      "nota": "Estudo de Custo: reajuste indicativo por plano pre e periodo ciclo de reajuste"
+    },
     {
       "versao": "0.9.154",
       "publicada_em": "2026-10-22",
