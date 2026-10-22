@@ -1,9 +1,14 @@
 {
-  "versao": "0.9.153",
+  "versao": "0.9.154",
   "publicada_em": "2026-10-22",
-  "nota": "Estudo de Custo: custo mes a mes desde 2023 por pre e pos, o que mudou, concentracao e pessoas que repetem o comportamento",
+  "nota": "Estudo de Custo: programa sugerido pelos grupos principais e cores dos anos",
   "url": "https://github.com/knoxviana/ecosistema_aura/releases",
   "historico": [
+    {
+      "versao": "0.9.154",
+      "publicada_em": "2026-10-22",
+      "nota": "Estudo de Custo: programa sugerido pelos grupos principais e cores dos anos"
+    },
     {
       "versao": "0.9.153",
       "publicada_em": "2026-10-22",
