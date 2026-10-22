@@ -1,9 +1,14 @@
 {
-  "versao": "0.9.158",
+  "versao": "0.9.159",
   "publicada_em": "2026-10-22",
-  "nota": "Bancada de pares: caso em alta lado a lado com parecidos que melhoraram; achados com tag de programa",
+  "nota": "Sinais da pessoa na ficha e botao Investigar: as telas de custo e cuidado passam a conversar",
   "url": "https://github.com/knoxviana/ecosistema_aura/releases",
   "historico": [
+    {
+      "versao": "0.9.159",
+      "publicada_em": "2026-10-22",
+      "nota": "Sinais da pessoa na ficha e botao Investigar: as telas de custo e cuidado passam a conversar"
+    },
     {
       "versao": "0.9.158",
       "publicada_em": "2026-10-22",
