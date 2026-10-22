@@ -1,9 +1,14 @@
 {
-  "versao": "0.9.152",
-  "publicada_em": "2026-10-21",
-  "nota": "Alertas de Cuidado: sinal Internado agora (guias de internacao com prorrogacao)",
+  "versao": "0.9.153",
+  "publicada_em": "2026-10-22",
+  "nota": "Estudo de Custo: custo mes a mes desde 2023 por pre e pos, o que mudou, concentracao e pessoas que repetem o comportamento",
   "url": "https://github.com/knoxviana/ecosistema_aura/releases",
   "historico": [
+    {
+      "versao": "0.9.153",
+      "publicada_em": "2026-10-22",
+      "nota": "Estudo de Custo: custo mes a mes desde 2023 por pre e pos, o que mudou, concentracao e pessoas que repetem o comportamento"
+    },
     {
       "versao": "0.9.152",
       "publicada_em": "2026-10-21",
