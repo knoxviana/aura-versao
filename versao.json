@@ -1,9 +1,14 @@
 {
-  "versao": "0.9.160",
+  "versao": "0.9.161",
   "publicada_em": "2026-10-22",
-  "nota": "Sinais da pessoa: alerta na mesma lista e aviso de analise do Radar desatualizada",
+  "nota": "Panorama da Carteira: retrato da carteira como porta de entrada",
   "url": "https://github.com/knoxviana/ecosistema_aura/releases",
   "historico": [
+    {
+      "versao": "0.9.161",
+      "publicada_em": "2026-10-22",
+      "nota": "Panorama da Carteira: retrato da carteira como porta de entrada"
+    },
     {
       "versao": "0.9.160",
       "publicada_em": "2026-10-22",
