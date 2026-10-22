@@ -1,9 +1,14 @@
 {
-  "versao": "0.9.156",
+  "versao": "0.9.157",
   "publicada_em": "2026-10-22",
-  "nota": "Estudo de Custo: grupo pequeno fora do pooling do reajuste indicativo",
+  "nota": "Programas de cuidado: catalogo usado como tag em indicacoes e achados",
   "url": "https://github.com/knoxviana/ecosistema_aura/releases",
   "historico": [
+    {
+      "versao": "0.9.157",
+      "publicada_em": "2026-10-22",
+      "nota": "Programas de cuidado: catalogo usado como tag em indicacoes e achados"
+    },
     {
       "versao": "0.9.156",
       "publicada_em": "2026-10-22",
