@@ -1,9 +1,14 @@
 {
-  "versao": "0.9.164",
+  "versao": "0.9.165",
   "publicada_em": "2026-10-23",
-  "nota": "Validação de contas: vínculo da conta com a guia de autorização (guia mãe, OPME, mesma senha) e tela para Contas Médicas validar internações",
+  "nota": "Validação de contas: local de execução da Unimed, alerta de conta de outra pessoa, pendentes só do incerto; Adoção do App por empresa no dia; Sala ao vivo abre a Adoção",
   "url": "https://github.com/knoxviana/ecosistema_aura/releases",
   "historico": [
+    {
+      "versao": "0.9.165",
+      "publicada_em": "2026-10-23",
+      "nota": "Validação de contas: local de execução da Unimed, alerta de conta de outra pessoa, pendentes só do incerto; Adoção do App por empresa no dia; Sala ao vivo abre a Adoção"
+    },
     {
       "versao": "0.9.164",
       "publicada_em": "2026-10-23",
