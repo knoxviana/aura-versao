@@ -1,9 +1,14 @@
 {
-  "versao": "0.9.163",
+  "versao": "0.9.164",
   "publicada_em": "2026-10-23",
-  "nota": "A história da pessoa na ficha e no Radar (começo, o que aconteceu, agora, o que acompanhar); Radar não abre categoria com item de internação e marca possibilidades",
+  "nota": "Validação de contas: vínculo da conta com a guia de autorização (guia mãe, OPME, mesma senha) e tela para Contas Médicas validar internações",
   "url": "https://github.com/knoxviana/ecosistema_aura/releases",
   "historico": [
+    {
+      "versao": "0.9.164",
+      "publicada_em": "2026-10-23",
+      "nota": "Validação de contas: vínculo da conta com a guia de autorização (guia mãe, OPME, mesma senha) e tela para Contas Médicas validar internações"
+    },
     {
       "versao": "0.9.163",
       "publicada_em": "2026-10-23",
