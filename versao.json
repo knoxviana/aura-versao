@@ -1,9 +1,14 @@
 {
-  "versao": "0.9.161",
-  "publicada_em": "2026-10-22",
-  "nota": "Panorama da Carteira: retrato da carteira como porta de entrada",
+  "versao": "0.9.162",
+  "publicada_em": "2026-10-23",
+  "nota": "Panorama: período livre no Retrato (abril a março), pessoas x vidas ANS, contato na qualidade do cadastro; Bancada sem corte na tela",
   "url": "https://github.com/knoxviana/ecosistema_aura/releases",
   "historico": [
+    {
+      "versao": "0.9.162",
+      "publicada_em": "2026-10-23",
+      "nota": "Panorama: período livre no Retrato (abril a março), pessoas x vidas ANS, contato na qualidade do cadastro; Bancada sem corte na tela"
+    },
     {
       "versao": "0.9.161",
       "publicada_em": "2026-10-22",
