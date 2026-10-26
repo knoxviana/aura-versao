@@ -1,9 +1,14 @@
 {
-  "versao": "0.9.169",
+  "versao": "0.9.170",
   "publicada_em": "2026-10-26",
-  "nota": "Datas e horários sempre em Brasília (aprovação do parecer, Validação de contas)",
+  "nota": "Gestão de Projetos: mapa do que está acontecendo, jornada do projeto (requisitos, entendimento, aceite do dono da demanda), quem está no projeto com clique, 5 abas",
   "url": "https://github.com/knoxviana/ecosistema_aura/releases",
   "historico": [
+    {
+      "versao": "0.9.170",
+      "publicada_em": "2026-10-26",
+      "nota": "Gestão de Projetos: mapa do que está acontecendo, jornada do projeto (requisitos, entendimento, aceite do dono da demanda), quem está no projeto com clique, 5 abas"
+    },
     {
       "versao": "0.9.169",
       "publicada_em": "2026-10-26",
