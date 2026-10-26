@@ -1,9 +1,14 @@
 {
-  "versao": "0.9.167",
+  "versao": "0.9.168",
   "publicada_em": "2026-10-26",
-  "nota": "Plural certo em toda a tela (Minhas pendências, sino, malha, ficha, Painel ANS, Radar e outros)",
+  "nota": "Aprovação do parecer da malha com texto claro (quem pediu, quem decide, padrão, quando); plural certo em toda a tela",
   "url": "https://github.com/knoxviana/ecosistema_aura/releases",
   "historico": [
+    {
+      "versao": "0.9.168",
+      "publicada_em": "2026-10-26",
+      "nota": "Aprovação do parecer da malha com texto claro (quem pediu, quem decide, padrão, quando); plural certo em toda a tela"
+    },
     {
       "versao": "0.9.167",
       "publicada_em": "2026-10-26",
