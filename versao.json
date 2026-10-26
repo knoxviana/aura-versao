@@ -1,9 +1,14 @@
 {
-  "versao": "0.9.175",
+  "versao": "0.9.176",
   "publicada_em": "2026-10-26",
-  "nota": "Plantão: painel conta as pessoas atendidas certo",
+  "nota": "Plantão: ícone da tela inicial com o logo da operadora e Plantão",
   "url": "https://github.com/knoxviana/ecosistema_aura/releases",
   "historico": [
+    {
+      "versao": "0.9.176",
+      "publicada_em": "2026-10-26",
+      "nota": "Plantão: ícone da tela inicial com o logo da operadora e Plantão"
+    },
     {
       "versao": "0.9.175",
       "publicada_em": "2026-10-26",
