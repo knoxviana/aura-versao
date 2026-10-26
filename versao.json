@@ -1,9 +1,14 @@
 {
-  "versao": "0.9.166",
+  "versao": "0.9.167",
   "publicada_em": "2026-10-26",
-  "nota": "Minhas pendências em todos os módulos (painel, página, menu, aviso ao entrar); avisos de aprovação no sino; índice do aviso por evento; Esforço em minutos inteiros",
+  "nota": "Plural certo em toda a tela (Minhas pendências, sino, malha, ficha, Painel ANS, Radar e outros)",
   "url": "https://github.com/knoxviana/ecosistema_aura/releases",
   "historico": [
+    {
+      "versao": "0.9.167",
+      "publicada_em": "2026-10-26",
+      "nota": "Plural certo em toda a tela (Minhas pendências, sino, malha, ficha, Painel ANS, Radar e outros)"
+    },
     {
       "versao": "0.9.166",
       "publicada_em": "2026-10-26",
