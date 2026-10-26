@@ -1,9 +1,14 @@
 {
-  "versao": "0.9.177",
+  "versao": "0.9.178",
   "publicada_em": "2026-10-26",
-  "nota": "Plantão: compartilhar e e-mail dos cartões; ícone da tela inicial corrigido",
+  "nota": "Plantão: compartilhar e e-mail dos cartões; e-mail do cadastro completo na tela; ícone com o logo da operadora",
   "url": "https://github.com/knoxviana/ecosistema_aura/releases",
   "historico": [
+    {
+      "versao": "0.9.178",
+      "publicada_em": "2026-10-26",
+      "nota": "Plantão: compartilhar e e-mail dos cartões; e-mail do cadastro completo na tela; ícone com o logo da operadora"
+    },
     {
       "versao": "0.9.177",
       "publicada_em": "2026-10-26",
