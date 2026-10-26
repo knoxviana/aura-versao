@@ -1,9 +1,14 @@
 {
-  "versao": "0.9.165",
-  "publicada_em": "2026-10-23",
-  "nota": "Validação de contas: local de execução da Unimed, alerta de conta de outra pessoa, pendentes só do incerto; Adoção do App por empresa no dia; Sala ao vivo abre a Adoção",
+  "versao": "0.9.166",
+  "publicada_em": "2026-10-26",
+  "nota": "Minhas pendências em todos os módulos (painel, página, menu, aviso ao entrar); avisos de aprovação no sino; índice do aviso por evento; Esforço em minutos inteiros",
   "url": "https://github.com/knoxviana/ecosistema_aura/releases",
   "historico": [
+    {
+      "versao": "0.9.166",
+      "publicada_em": "2026-10-26",
+      "nota": "Minhas pendências em todos os módulos (painel, página, menu, aviso ao entrar); avisos de aprovação no sino; índice do aviso por evento; Esforço em minutos inteiros"
+    },
     {
       "versao": "0.9.165",
       "publicada_em": "2026-10-23",
