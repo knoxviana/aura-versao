@@ -1,9 +1,14 @@
 {
-  "versao": "0.9.173",
+  "versao": "0.9.174",
   "publicada_em": "2026-10-26",
-  "nota": "Plantão: versão de celular (busca, família, carência, cartões e registro com protocolo ANS) e painel do Plantão",
+  "nota": "Plantão: ativos primeiro na busca; ícone da tela inicial com o tipo certo",
   "url": "https://github.com/knoxviana/ecosistema_aura/releases",
   "historico": [
+    {
+      "versao": "0.9.174",
+      "publicada_em": "2026-10-26",
+      "nota": "Plantão: ativos primeiro na busca; ícone da tela inicial com o tipo certo"
+    },
     {
       "versao": "0.9.173",
       "publicada_em": "2026-10-26",
