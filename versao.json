@@ -1,9 +1,14 @@
 {
-  "versao": "0.9.174",
+  "versao": "0.9.175",
   "publicada_em": "2026-10-26",
-  "nota": "Plantão: ativos primeiro na busca; ícone da tela inicial com o tipo certo",
+  "nota": "Plantão: painel conta as pessoas atendidas certo",
   "url": "https://github.com/knoxviana/ecosistema_aura/releases",
   "historico": [
+    {
+      "versao": "0.9.175",
+      "publicada_em": "2026-10-26",
+      "nota": "Plantão: painel conta as pessoas atendidas certo"
+    },
     {
       "versao": "0.9.174",
       "publicada_em": "2026-10-26",
