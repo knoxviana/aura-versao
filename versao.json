@@ -1,9 +1,14 @@
 {
-  "versao": "0.9.171",
+  "versao": "0.9.172",
   "publicada_em": "2026-10-26",
-  "nota": "Gestão de Projetos: imagens nos requisitos (fluxo, print com Ctrl+V); pendências do responsável iguais ao mapa; atividade recente com a jornada",
+  "nota": "Gestão de Projetos: fluxo e anexos no entendimento (imagem sai das perguntas de requisito)",
   "url": "https://github.com/knoxviana/ecosistema_aura/releases",
   "historico": [
+    {
+      "versao": "0.9.172",
+      "publicada_em": "2026-10-26",
+      "nota": "Gestão de Projetos: fluxo e anexos no entendimento (imagem sai das perguntas de requisito)"
+    },
     {
       "versao": "0.9.171",
       "publicada_em": "2026-10-26",
