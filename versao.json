@@ -1,9 +1,14 @@
 {
-  "versao": "0.9.183",
+  "versao": "0.9.184",
   "publicada_em": "2026-10-27",
-  "nota": "Plantão: aba Cartões só com informações; selos das lojas lado a lado no e-mail",
+  "nota": "Plantao: e-mail no dominio liberado (DEV); setor Plantao com campos padrao (corrige tela de usuarios)",
   "url": "https://github.com/knoxviana/ecosistema_aura/releases",
   "historico": [
+    {
+      "versao": "0.9.184",
+      "publicada_em": "2026-10-27",
+      "nota": "Plantao: e-mail no dominio liberado (DEV); setor Plantao com campos padrao (corrige tela de usuarios)"
+    },
     {
       "versao": "0.9.183",
       "publicada_em": "2026-10-27",
