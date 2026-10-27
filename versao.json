@@ -1,9 +1,14 @@
 {
-  "versao": "0.9.181",
+  "versao": "0.9.182",
   "publicada_em": "2026-10-27",
-  "nota": "Plantão: e-mail dos cartões novo (convite do app, rodapé institucional) e aba Cartões completa",
+  "nota": "Plantão: acabamento da aba Cartões",
   "url": "https://github.com/knoxviana/ecosistema_aura/releases",
   "historico": [
+    {
+      "versao": "0.9.182",
+      "publicada_em": "2026-10-27",
+      "nota": "Plantão: acabamento da aba Cartões"
+    },
     {
       "versao": "0.9.181",
       "publicada_em": "2026-10-27",
