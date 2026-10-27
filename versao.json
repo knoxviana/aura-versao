@@ -1,9 +1,14 @@
 {
-  "versao": "0.9.179",
+  "versao": "0.9.180",
   "publicada_em": "2026-10-27",
-  "nota": "Conheça nosso app nos e-mails (links rastreados por loja) e botão Instalar no Plantão",
+  "nota": "E-mail dos cartões com texto novo e convite do app oficial",
   "url": "https://github.com/knoxviana/ecosistema_aura/releases",
   "historico": [
+    {
+      "versao": "0.9.180",
+      "publicada_em": "2026-10-27",
+      "nota": "E-mail dos cartões com texto novo e convite do app oficial"
+    },
     {
       "versao": "0.9.179",
       "publicada_em": "2026-10-27",
