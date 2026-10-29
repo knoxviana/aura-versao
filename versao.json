@@ -1,9 +1,14 @@
 {
-  "versao": "0.9.187",
+  "versao": "0.9.188",
   "publicada_em": "2026-10-29",
-  "nota": "Novo módulo Superintendente: painel de bolso com sinistralidade, inadimplência, vidas e maiores gastos, e observações aos gestores",
+  "nota": "Superintendente: abas Hoje, Dinheiro, Carteira, Rede e custo e IDSS, com filtro Pré/Pós e período, internados, prestadores, reembolso e botão Baixar app",
   "url": "https://github.com/knoxviana/ecosistema_aura/releases",
   "historico": [
+    {
+      "versao": "0.9.188",
+      "publicada_em": "2026-10-29",
+      "nota": "Superintendente: abas Hoje, Dinheiro, Carteira, Rede e custo e IDSS, com filtro Pré/Pós e período, internados, prestadores, reembolso e botão Baixar app"
+    },
     {
       "versao": "0.9.187",
       "publicada_em": "2026-10-29",
