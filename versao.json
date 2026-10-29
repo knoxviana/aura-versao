@@ -1,9 +1,14 @@
 {
-  "versao": "0.9.190",
+  "versao": "0.9.191",
   "publicada_em": "2026-10-29",
-  "nota": "Superintendente: observação para qualquer pessoa em Minhas pendências, lista de internados, Baixar app flutuante e texto da inadimplência",
+  "nota": "Superintendente: questionamento com resposta obrigatória para qualquer usuário; barra sem o ícone do AURA",
   "url": "https://github.com/knoxviana/ecosistema_aura/releases",
   "historico": [
+    {
+      "versao": "0.9.191",
+      "publicada_em": "2026-10-29",
+      "nota": "Superintendente: questionamento com resposta obrigatória para qualquer usuário; barra sem o ícone do AURA"
+    },
     {
       "versao": "0.9.190",
       "publicada_em": "2026-10-29",
