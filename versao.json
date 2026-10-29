@@ -1,9 +1,14 @@
 {
-  "versao": "0.9.191",
+  "versao": "0.9.192",
   "publicada_em": "2026-10-29",
-  "nota": "Superintendente: questionamento com resposta obrigatória para qualquer usuário; barra sem o ícone do AURA",
+  "nota": "O módulo agora se chama Dados (link /dados), níveis Leitor e Gestor, e quem pergunta recebe a resposta com aviso",
   "url": "https://github.com/knoxviana/ecosistema_aura/releases",
   "historico": [
+    {
+      "versao": "0.9.192",
+      "publicada_em": "2026-10-29",
+      "nota": "O módulo agora se chama Dados (link /dados), níveis Leitor e Gestor, e quem pergunta recebe a resposta com aviso"
+    },
     {
       "versao": "0.9.191",
       "publicada_em": "2026-10-29",
