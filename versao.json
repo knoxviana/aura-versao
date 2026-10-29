@@ -1,9 +1,14 @@
 {
-  "versao": "0.9.186",
-  "publicada_em": "2026-10-28",
-  "nota": "Cartao Funcional unificado e datas dos cartoes em dd/mm/aaaa",
+  "versao": "0.9.187",
+  "publicada_em": "2026-10-29",
+  "nota": "Novo módulo Superintendente: painel de bolso com sinistralidade, inadimplência, vidas e maiores gastos, e observações aos gestores",
   "url": "https://github.com/knoxviana/ecosistema_aura/releases",
   "historico": [
+    {
+      "versao": "0.9.187",
+      "publicada_em": "2026-10-29",
+      "nota": "Novo módulo Superintendente: painel de bolso com sinistralidade, inadimplência, vidas e maiores gastos, e observações aos gestores"
+    },
     {
       "versao": "0.9.186",
       "publicada_em": "2026-10-28",
