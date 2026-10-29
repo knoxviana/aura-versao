@@ -1,9 +1,14 @@
 {
-  "versao": "0.9.189",
+  "versao": "0.9.190",
   "publicada_em": "2026-10-29",
-  "nota": "Superintendente: arrastar a folha para baixo fecha, sem recarregar a página; ex-beneficiário no lugar de ex-cliente",
+  "nota": "Superintendente: observação para qualquer pessoa em Minhas pendências, lista de internados, Baixar app flutuante e texto da inadimplência",
   "url": "https://github.com/knoxviana/ecosistema_aura/releases",
   "historico": [
+    {
+      "versao": "0.9.190",
+      "publicada_em": "2026-10-29",
+      "nota": "Superintendente: observação para qualquer pessoa em Minhas pendências, lista de internados, Baixar app flutuante e texto da inadimplência"
+    },
     {
       "versao": "0.9.189",
       "publicada_em": "2026-10-29",
