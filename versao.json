@@ -1,9 +1,14 @@
 {
-  "versao": "0.9.192",
-  "publicada_em": "2026-10-29",
-  "nota": "O módulo agora se chama Dados (link /dados), níveis Leitor e Gestor, e quem pergunta recebe a resposta com aviso",
+  "versao": "0.9.193",
+  "publicada_em": "2026-10-30",
+  "nota": "Versao 0.9.193 publicada.",
   "url": "https://github.com/knoxviana/ecosistema_aura/releases",
   "historico": [
+    {
+      "versao": "0.9.193",
+      "publicada_em": "2026-10-30",
+      "nota": "Versao 0.9.193 publicada."
+    },
     {
       "versao": "0.9.192",
       "publicada_em": "2026-10-29",
