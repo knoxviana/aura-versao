@@ -1,9 +1,14 @@
 {
-  "versao": "0.9.200",
+  "versao": "0.9.201",
   "publicada_em": "2026-10-31",
-  "nota": "Versao 0.9.200 publicada.",
+  "nota": "Versao 0.9.201 publicada.",
   "url": "https://github.com/knoxviana/ecosistema_aura/releases",
   "historico": [
+    {
+      "versao": "0.9.201",
+      "publicada_em": "2026-10-31",
+      "nota": "Versao 0.9.201 publicada."
+    },
     {
       "versao": "0.9.200",
       "publicada_em": "2026-10-31",
