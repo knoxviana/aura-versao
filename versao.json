@@ -1,9 +1,14 @@
 {
-  "versao": "0.9.229",
-  "publicada_em": "2026-11-12",
-  "nota": "Verificação de documentos: relatório mostra o comprovante ao lado de cada indício, sem os falsos positivos do primeiro lote real, e nova checagem de deslocamento (a pessoa do cupom estava em outra cidade?). iknow: tela fixa pela empresa, TV ligada sem celular.",
+  "versao": "0.9.230",
+  "publicada_em": "2026-11-13",
+  "nota": "Mapa de Automação: página pública /mapa-automacao com os processos por setor, nível de automação e meta",
   "url": "https://github.com/knoxviana/ecosistema_aura/releases",
   "historico": [
+    {
+      "versao": "0.9.230",
+      "publicada_em": "2026-11-13",
+      "nota": "Mapa de Automação: página pública /mapa-automacao com os processos por setor, nível de automação e meta"
+    },
     {
       "versao": "0.9.229",
       "publicada_em": "2026-11-12",
