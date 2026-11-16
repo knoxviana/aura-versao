@@ -1,9 +1,14 @@
 {
-  "versao": "0.9.233",
+  "versao": "0.9.234",
   "publicada_em": "2026-11-16",
-  "nota": "Monitor do ERP: banco e tela do MV-SOUL como informacoes separadas",
+  "nota": "iknow: voltar do Android fecha a tela aberta em vez de sair do app",
   "url": "https://github.com/knoxviana/ecosistema_aura/releases",
   "historico": [
+    {
+      "versao": "0.9.234",
+      "publicada_em": "2026-11-16",
+      "nota": "iknow: voltar do Android fecha a tela aberta em vez de sair do app"
+    },
     {
       "versao": "0.9.233",
       "publicada_em": "2026-11-16",
