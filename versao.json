@@ -1,9 +1,14 @@
 {
-  "versao": "0.9.231",
-  "publicada_em": "2026-11-15",
-  "nota": "Alertas do ERP no Chat agora em card: o título diz o que está fora, o que fazer enquanto isso e quem age; cada queda vira uma conversa. Inclui as observações no relatório de reembolso e o antifraude de CNPJ de farmácia.",
+  "versao": "0.9.232",
+  "publicada_em": "2026-11-16",
+  "nota": "Monitor do ERP: voltou so quando a tela de login do MV-SOUL abre",
   "url": "https://github.com/knoxviana/ecosistema_aura/releases",
   "historico": [
+    {
+      "versao": "0.9.232",
+      "publicada_em": "2026-11-16",
+      "nota": "Monitor do ERP: voltou so quando a tela de login do MV-SOUL abre"
+    },
     {
       "versao": "0.9.231",
       "publicada_em": "2026-11-15",
