@@ -1,9 +1,14 @@
 {
-  "versao": "0.9.232",
+  "versao": "0.9.233",
   "publicada_em": "2026-11-16",
-  "nota": "Monitor do ERP: voltou so quando a tela de login do MV-SOUL abre",
+  "nota": "Monitor do ERP: banco e tela do MV-SOUL como informacoes separadas",
   "url": "https://github.com/knoxviana/ecosistema_aura/releases",
   "historico": [
+    {
+      "versao": "0.9.233",
+      "publicada_em": "2026-11-16",
+      "nota": "Monitor do ERP: banco e tela do MV-SOUL como informacoes separadas"
+    },
     {
       "versao": "0.9.232",
       "publicada_em": "2026-11-16",
