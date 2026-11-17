@@ -1,9 +1,14 @@
 {
-  "versao": "0.9.235",
-  "publicada_em": "2026-11-16",
-  "nota": "Ficha, Plantão e iknow: quem tem plano médico e odonto passa a aparecer com o plano médico (antes podia aparecer só o odonto).",
+  "versao": "0.9.236",
+  "publicada_em": "2026-11-17",
+  "nota": "Contabilidade: nova tela Razão e composição (Financeiro). Razão de qualquer conta do MV-SOUL por período e composição do saldo numa data de posição, com conferência contra o saldo mensal oficial e planilha.",
   "url": "https://github.com/knoxviana/ecosistema_aura/releases",
   "historico": [
+    {
+      "versao": "0.9.236",
+      "publicada_em": "2026-11-17",
+      "nota": "Contabilidade: nova tela Razão e composição (Financeiro). Razão de qualquer conta do MV-SOUL por período e composição do saldo numa data de posição, com conferência contra o saldo mensal oficial e planilha."
+    },
     {
       "versao": "0.9.235",
       "publicada_em": "2026-11-16",
