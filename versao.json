@@ -1,9 +1,14 @@
 {
-  "versao": "0.9.238",
+  "versao": "0.9.239",
   "publicada_em": "2026-11-18",
-  "nota": "Razão e composição: busca de conta não é mais sobrescrita por resposta atrasada",
+  "nota": "iknow: receita com duas variações por extenso, reembolso em pessoas por mês, especialidade separa medicamento/diária e mostra falta de cadastro",
   "url": "https://github.com/knoxviana/ecosistema_aura/releases",
   "historico": [
+    {
+      "versao": "0.9.239",
+      "publicada_em": "2026-11-18",
+      "nota": "iknow: receita com duas variações por extenso, reembolso em pessoas por mês, especialidade separa medicamento/diária e mostra falta de cadastro"
+    },
     {
       "versao": "0.9.238",
       "publicada_em": "2026-11-18",
