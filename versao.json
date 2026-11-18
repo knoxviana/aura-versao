@@ -1,9 +1,14 @@
 {
-  "versao": "0.9.236",
-  "publicada_em": "2026-11-17",
-  "nota": "Contabilidade: nova tela Razão e composição (Financeiro). Razão de qualquer conta do MV-SOUL por período e composição do saldo numa data de posição, com conferência contra o saldo mensal oficial e planilha.",
+  "versao": "0.9.237",
+  "publicada_em": "2026-11-18",
+  "nota": "Razão e composição: mesmo nº de documento para empresas diferentes vira itens separados",
   "url": "https://github.com/knoxviana/ecosistema_aura/releases",
   "historico": [
+    {
+      "versao": "0.9.237",
+      "publicada_em": "2026-11-18",
+      "nota": "Razão e composição: mesmo nº de documento para empresas diferentes vira itens separados"
+    },
     {
       "versao": "0.9.236",
       "publicada_em": "2026-11-17",
