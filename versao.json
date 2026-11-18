@@ -1,9 +1,14 @@
 {
-  "versao": "0.9.240",
+  "versao": "0.9.241",
   "publicada_em": "2026-11-18",
-  "nota": "Painel da Diretoria: PDF na identidade visual (logo, filete verde, grafismo) e em página inteira",
+  "nota": "Painel da Diretoria: PDF usa o logo da operadora",
   "url": "https://github.com/knoxviana/ecosistema_aura/releases",
   "historico": [
+    {
+      "versao": "0.9.241",
+      "publicada_em": "2026-11-18",
+      "nota": "Painel da Diretoria: PDF usa o logo da operadora"
+    },
     {
       "versao": "0.9.240",
       "publicada_em": "2026-11-18",
