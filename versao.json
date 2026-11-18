@@ -1,9 +1,14 @@
 {
-  "versao": "0.9.239",
+  "versao": "0.9.240",
   "publicada_em": "2026-11-18",
-  "nota": "iknow: receita com duas variações por extenso, reembolso em pessoas por mês, especialidade separa medicamento/diária e mostra falta de cadastro",
+  "nota": "Painel da Diretoria: PDF na identidade visual (logo, filete verde, grafismo) e em página inteira",
   "url": "https://github.com/knoxviana/ecosistema_aura/releases",
   "historico": [
+    {
+      "versao": "0.9.240",
+      "publicada_em": "2026-11-18",
+      "nota": "Painel da Diretoria: PDF na identidade visual (logo, filete verde, grafismo) e em página inteira"
+    },
     {
       "versao": "0.9.239",
       "publicada_em": "2026-11-18",
