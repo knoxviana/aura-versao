@@ -1,9 +1,14 @@
 {
-  "versao": "0.9.237",
+  "versao": "0.9.238",
   "publicada_em": "2026-11-18",
-  "nota": "Razão e composição: mesmo nº de documento para empresas diferentes vira itens separados",
+  "nota": "Razão e composição: busca de conta não é mais sobrescrita por resposta atrasada",
   "url": "https://github.com/knoxviana/ecosistema_aura/releases",
   "historico": [
+    {
+      "versao": "0.9.238",
+      "publicada_em": "2026-11-18",
+      "nota": "Razão e composição: busca de conta não é mais sobrescrita por resposta atrasada"
+    },
     {
       "versao": "0.9.237",
       "publicada_em": "2026-11-18",
