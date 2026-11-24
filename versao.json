@@ -1,9 +1,14 @@
 {
-  "versao": "0.9.244",
+  "versao": "0.9.245",
   "publicada_em": "2026-11-24",
-  "nota": "O orbe de abertura fica só no AURA: o login a caminho do iknow e do Plantão volta a ser como antes, e lá a sessão encerrada por inatividade mostra o aviso de sempre.",
+  "nota": "Contabilidade: livro auxiliar de notas de débito por posição (botão na tela Razão e composição)",
   "url": "https://github.com/knoxviana/ecosistema_aura/releases",
   "historico": [
+    {
+      "versao": "0.9.245",
+      "publicada_em": "2026-11-24",
+      "nota": "Contabilidade: livro auxiliar de notas de débito por posição (botão na tela Razão e composição)"
+    },
     {
       "versao": "0.9.244",
       "publicada_em": "2026-11-24",
