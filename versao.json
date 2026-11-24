@@ -1,9 +1,14 @@
 {
-  "versao": "0.9.242",
-  "publicada_em": "2026-11-19",
-  "nota": "Painel da Diretoria: rodape centralizado (logo, lema, GNI - Inovacao); lema 'Transformar o cuidado em saude'",
+  "versao": "0.9.243",
+  "publicada_em": "2026-11-24",
+  "nota": "Nova abertura do login: o orbe de partículas forma o logo da operadora com o lema e depois o AURA. Quando a sessão cai por 30 minutos sem uso, o orbe vira descanso de tela no lugar do aviso do navegador.",
   "url": "https://github.com/knoxviana/ecosistema_aura/releases",
   "historico": [
+    {
+      "versao": "0.9.243",
+      "publicada_em": "2026-11-24",
+      "nota": "Nova abertura do login: o orbe de partículas forma o logo da operadora com o lema e depois o AURA. Quando a sessão cai por 30 minutos sem uso, o orbe vira descanso de tela no lugar do aviso do navegador."
+    },
     {
       "versao": "0.9.242",
       "publicada_em": "2026-11-19",
