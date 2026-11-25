@@ -1,9 +1,14 @@
 {
-  "versao": "0.9.245",
-  "publicada_em": "2026-11-24",
-  "nota": "Contabilidade: livro auxiliar de notas de débito por posição (botão na tela Razão e composição)",
+  "versao": "0.9.246",
+  "publicada_em": "2026-11-25",
+  "nota": "Sync de utilização sai do início do expediente: 08:00 para 05:15 de Brasília",
   "url": "https://github.com/knoxviana/ecosistema_aura/releases",
   "historico": [
+    {
+      "versao": "0.9.246",
+      "publicada_em": "2026-11-25",
+      "nota": "Sync de utilização sai do início do expediente: 08:00 para 05:15 de Brasília"
+    },
     {
       "versao": "0.9.245",
       "publicada_em": "2026-11-24",
