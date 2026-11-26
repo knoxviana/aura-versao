@@ -1,9 +1,14 @@
 {
-  "versao": "0.9.246",
-  "publicada_em": "2026-11-25",
-  "nota": "Sync de utilização sai do início do expediente: 08:00 para 05:15 de Brasília",
+  "versao": "0.9.247",
+  "publicada_em": "2026-11-26",
+  "nota": "Sala das automações (só administrador); iknow mostra pessoas e matrículas e tira reciprocidade das vidas; cadastro de planos inclui os da carteira (plano 49 Trainee como pós); orbe também ao abrir o AURA já logado.",
   "url": "https://github.com/knoxviana/ecosistema_aura/releases",
   "historico": [
+    {
+      "versao": "0.9.247",
+      "publicada_em": "2026-11-26",
+      "nota": "Sala das automações (só administrador); iknow mostra pessoas e matrículas e tira reciprocidade das vidas; cadastro de planos inclui os da carteira (plano 49 Trainee como pós); orbe também ao abrir o AURA já logado."
+    },
     {
       "versao": "0.9.246",
       "publicada_em": "2026-11-25",
